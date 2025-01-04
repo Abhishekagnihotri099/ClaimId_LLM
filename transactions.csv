@@ -1,0 +1,2001 @@
+ClaimNumber,PaymentType,CostType,CostCategory,GrossAmount,PaymentJustifiedInNotes
+CLM000507,Check,Medical,Indemnity,49152.85,NO
+CLM000818,Check,Property Damage,Expense,45395.94,YES
+CLM000987,Direct Deposit,Property Damage,Expense,20937.6,NO
+CLM000591,Check,Property Damage,Indemnity,29095.68,YES
+CLM000795,Credit Card,Vehicle Repair,Indemnity,31458.5,YES
+CLM000868,Check,Medical,Expense,18145.82,YES
+CLM000539,Direct Deposit,Medical,Expense,26177.71,NO
+CLM000043,Direct Deposit,Vehicle Repair,Expense,47935.33,YES
+CLM000118,Check,Property Damage,Indemnity,36661.09,YES
+CLM000340,Check,Property Damage,Expense,11083.9,YES
+CLM000075,Credit Card,Vehicle Repair,Indemnity,686.49,YES
+CLM000396,Check,Property Damage,Expense,4164.75,NO
+CLM000499,Credit Card,Vehicle Repair,Indemnity,47888.07,YES
+CLM000589,Check,Property Damage,Expense,6152.51,NO
+CLM000967,Check,Medical,Expense,31628.92,YES
+CLM000452,Direct Deposit,Medical,Indemnity,13087.32,YES
+CLM000813,Check,Medical,Expense,40628.12,YES
+CLM000412,Credit Card,Medical,Expense,31560.47,NO
+CLM000585,Direct Deposit,Medical,Expense,40084.83,YES
+CLM000941,Check,Property Damage,Expense,26030.26,YES
+CLM000793,Check,Vehicle Repair,Indemnity,2637.18,NO
+CLM000104,Credit Card,Vehicle Repair,Expense,21710.69,YES
+CLM000767,Direct Deposit,Vehicle Repair,Indemnity,6732.05,YES
+CLM000044,Credit Card,Medical,Indemnity,23707.59,YES
+CLM000315,Check,Property Damage,Expense,14245.44,YES
+CLM000593,Direct Deposit,Vehicle Repair,Indemnity,41975.62,NO
+CLM000189,Direct Deposit,Medical,Expense,38634.53,NO
+CLM000425,Direct Deposit,Medical,Indemnity,37606.17,YES
+CLM000599,Credit Card,Medical,Indemnity,21191.38,YES
+CLM000754,Direct Deposit,Medical,Expense,10482.92,NO
+CLM000256,Credit Card,Medical,Indemnity,4941.11,NO
+CLM000335,Direct Deposit,Medical,Indemnity,36981.02,YES
+CLM000946,Credit Card,Property Damage,Indemnity,13634.99,NO
+CLM000927,Check,Medical,Indemnity,14471.39,NO
+CLM000895,Direct Deposit,Property Damage,Expense,6093.24,NO
+CLM000190,Direct Deposit,Vehicle Repair,Expense,27997.92,YES
+CLM000043,Check,Medical,Indemnity,32834.8,NO
+CLM000260,Check,Property Damage,Indemnity,25728.94,YES
+CLM000505,Direct Deposit,Property Damage,Indemnity,38225.99,NO
+CLM000390,Check,Medical,Expense,43104.24,NO
+CLM000047,Credit Card,Vehicle Repair,Indemnity,3027.87,NO
+CLM000441,Direct Deposit,Medical,Expense,6001.64,NO
+CLM000206,Credit Card,Medical,Indemnity,33125.18,YES
+CLM000392,Credit Card,Medical,Expense,43151.64,NO
+CLM000377,Credit Card,Medical,Indemnity,20743.59,NO
+CLM000531,Credit Card,Property Damage,Expense,35421.16,NO
+CLM000637,Direct Deposit,Medical,Indemnity,26431.16,YES
+CLM000408,Credit Card,Property Damage,Expense,28553.36,NO
+CLM000384,Direct Deposit,Property Damage,Expense,1140.58,NO
+CLM000403,Check,Medical,Indemnity,20171.38,YES
+CLM000650,Direct Deposit,Property Damage,Indemnity,17387.85,YES
+CLM000202,Direct Deposit,Medical,Indemnity,11090.07,YES
+CLM000187,Credit Card,Medical,Indemnity,8069.65,YES
+CLM000776,Check,Vehicle Repair,Indemnity,32065.4,YES
+CLM000463,Check,Medical,Indemnity,34047.45,YES
+CLM000974,Check,Property Damage,Expense,19847.58,YES
+CLM000801,Credit Card,Medical,Indemnity,34461.65,YES
+CLM000175,Check,Vehicle Repair,Indemnity,42255.15,NO
+CLM000625,Credit Card,Vehicle Repair,Indemnity,4771.38,NO
+CLM000420,Direct Deposit,Vehicle Repair,Expense,34669.29,YES
+CLM000245,Direct Deposit,Medical,Expense,25522.71,YES
+CLM000670,Direct Deposit,Vehicle Repair,Expense,14912.91,NO
+CLM000324,Check,Property Damage,Expense,44874.19,NO
+CLM000756,Check,Property Damage,Expense,5751.71,YES
+CLM000350,Check,Property Damage,Indemnity,25569.17,YES
+CLM000669,Credit Card,Vehicle Repair,Expense,19251.2,NO
+CLM000866,Credit Card,Vehicle Repair,Indemnity,2208.98,NO
+CLM000554,Direct Deposit,Medical,Expense,30857.51,NO
+CLM000795,Check,Medical,Expense,2690.77,YES
+CLM000055,Credit Card,Vehicle Repair,Expense,7538.62,YES
+CLM000197,Credit Card,Medical,Indemnity,11915.53,NO
+CLM000925,Credit Card,Vehicle Repair,Expense,6466.94,NO
+CLM000168,Check,Medical,Expense,3331.48,NO
+CLM000498,Check,Medical,Indemnity,31959.61,NO
+CLM000897,Direct Deposit,Property Damage,Indemnity,16167.63,YES
+CLM000725,Check,Medical,Expense,28110.08,YES
+CLM000173,Direct Deposit,Property Damage,Expense,32019.8,YES
+CLM000841,Credit Card,Medical,Expense,10178.31,YES
+CLM000488,Direct Deposit,Medical,Expense,961.28,YES
+CLM000953,Direct Deposit,Property Damage,Indemnity,264.69,YES
+CLM000750,Credit Card,Property Damage,Indemnity,27198.15,NO
+CLM000030,Direct Deposit,Vehicle Repair,Indemnity,39581.97,YES
+CLM000285,Direct Deposit,Vehicle Repair,Expense,8155.07,NO
+CLM000574,Direct Deposit,Vehicle Repair,Expense,22508.07,NO
+CLM000901,Direct Deposit,Property Damage,Indemnity,5909.44,NO
+CLM000034,Check,Property Damage,Expense,383.87,NO
+CLM000420,Credit Card,Medical,Indemnity,20596.83,YES
+CLM000300,Direct Deposit,Property Damage,Expense,15528.04,NO
+CLM000301,Check,Medical,Expense,11965.9,NO
+CLM000110,Direct Deposit,Medical,Indemnity,12760.8,NO
+CLM000821,Credit Card,Property Damage,Indemnity,35217.98,YES
+CLM000759,Direct Deposit,Medical,Expense,23101.59,YES
+CLM000257,Direct Deposit,Property Damage,Indemnity,16927.93,YES
+CLM000636,Direct Deposit,Medical,Indemnity,13540.68,YES
+CLM000704,Credit Card,Property Damage,Expense,3176.37,YES
+CLM000169,Check,Vehicle Repair,Indemnity,8308.6,NO
+CLM000245,Credit Card,Vehicle Repair,Indemnity,32094.48,YES
+CLM000516,Check,Property Damage,Indemnity,41932.06,YES
+CLM000859,Credit Card,Property Damage,Expense,2755.05,YES
+CLM000650,Check,Medical,Indemnity,43150.01,NO
+CLM000444,Direct Deposit,Medical,Expense,39850.13,NO
+CLM000793,Direct Deposit,Vehicle Repair,Indemnity,12172.52,YES
+CLM000312,Credit Card,Vehicle Repair,Indemnity,6110.38,NO
+CLM000525,Credit Card,Vehicle Repair,Expense,28136.98,NO
+CLM000154,Credit Card,Vehicle Repair,Indemnity,24632.27,NO
+CLM000554,Credit Card,Medical,Indemnity,45183.14,NO
+CLM000157,Check,Vehicle Repair,Indemnity,46678.14,NO
+CLM000699,Direct Deposit,Vehicle Repair,Indemnity,46073.66,NO
+CLM000673,Credit Card,Vehicle Repair,Indemnity,5895.09,NO
+CLM000073,Direct Deposit,Medical,Expense,1091.41,YES
+CLM000149,Check,Vehicle Repair,Expense,28004.83,YES
+CLM000169,Credit Card,Property Damage,Indemnity,49460.03,NO
+CLM000435,Credit Card,Medical,Expense,37336.48,NO
+CLM000355,Credit Card,Medical,Indemnity,22205.58,NO
+CLM000620,Credit Card,Vehicle Repair,Indemnity,21837.42,YES
+CLM000824,Check,Vehicle Repair,Indemnity,37998.2,YES
+CLM000080,Credit Card,Medical,Indemnity,27509.72,NO
+CLM000335,Credit Card,Vehicle Repair,Expense,22289.12,YES
+CLM000820,Credit Card,Vehicle Repair,Expense,2521.42,YES
+CLM000076,Credit Card,Property Damage,Expense,4873.28,YES
+CLM000314,Direct Deposit,Medical,Indemnity,22519.19,YES
+CLM000267,Direct Deposit,Vehicle Repair,Indemnity,8631.98,YES
+CLM000382,Check,Vehicle Repair,Indemnity,15798.58,NO
+CLM000440,Credit Card,Medical,Indemnity,18907.59,YES
+CLM000907,Check,Vehicle Repair,Expense,26414.82,NO
+CLM000808,Check,Property Damage,Expense,38011.41,YES
+CLM000149,Credit Card,Property Damage,Indemnity,40440.16,NO
+CLM000056,Credit Card,Property Damage,Expense,44828.13,NO
+CLM000057,Check,Property Damage,Indemnity,28242.55,YES
+CLM000917,Check,Vehicle Repair,Expense,34734.12,NO
+CLM000304,Check,Medical,Indemnity,7953.67,YES
+CLM000955,Check,Medical,Expense,1736.34,NO
+CLM000785,Direct Deposit,Vehicle Repair,Indemnity,18742.88,YES
+CLM000727,Check,Property Damage,Indemnity,8568.5,NO
+CLM000014,Direct Deposit,Property Damage,Expense,648.87,NO
+CLM000359,Direct Deposit,Vehicle Repair,Expense,8620.65,YES
+CLM000729,Direct Deposit,Vehicle Repair,Indemnity,8617.42,YES
+CLM000189,Check,Medical,Indemnity,34193.6,YES
+CLM000520,Check,Property Damage,Indemnity,7367.94,YES
+CLM000705,Direct Deposit,Medical,Expense,44459.77,NO
+CLM000942,Credit Card,Vehicle Repair,Indemnity,35324.24,NO
+CLM000099,Credit Card,Medical,Expense,15519.53,YES
+CLM000789,Check,Vehicle Repair,Expense,20870.91,NO
+CLM000885,Direct Deposit,Medical,Expense,38309.17,NO
+CLM000541,Direct Deposit,Property Damage,Indemnity,29364.6,YES
+CLM000195,Check,Medical,Indemnity,47922.1,NO
+CLM000553,Direct Deposit,Property Damage,Expense,35148.38,NO
+CLM000695,Credit Card,Medical,Indemnity,7211.59,NO
+CLM000362,Check,Medical,Indemnity,13943.45,NO
+CLM000748,Credit Card,Vehicle Repair,Expense,39928.96,YES
+CLM000528,Check,Property Damage,Expense,47524.27,NO
+CLM000361,Check,Vehicle Repair,Expense,47872.1,NO
+CLM000179,Direct Deposit,Medical,Indemnity,8962.95,NO
+CLM000737,Direct Deposit,Property Damage,Indemnity,43055.65,YES
+CLM000659,Direct Deposit,Property Damage,Indemnity,24157.67,NO
+CLM000245,Direct Deposit,Medical,Indemnity,4173.12,NO
+CLM000578,Check,Vehicle Repair,Indemnity,26583.37,YES
+CLM000990,Check,Vehicle Repair,Indemnity,42765.25,NO
+CLM000039,Credit Card,Vehicle Repair,Expense,23009.13,NO
+CLM000864,Credit Card,Property Damage,Expense,44153.91,NO
+CLM000525,Direct Deposit,Medical,Expense,19498.46,NO
+CLM000481,Check,Property Damage,Indemnity,15970.12,NO
+CLM000139,Credit Card,Property Damage,Expense,31133.29,NO
+CLM000151,Direct Deposit,Vehicle Repair,Expense,48411.52,YES
+CLM000412,Direct Deposit,Vehicle Repair,Expense,37820.1,NO
+CLM000927,Check,Property Damage,Indemnity,19598.8,NO
+CLM000569,Direct Deposit,Medical,Expense,43248.8,YES
+CLM000905,Credit Card,Vehicle Repair,Expense,39725.83,NO
+CLM000292,Direct Deposit,Medical,Indemnity,42148.92,NO
+CLM000385,Check,Property Damage,Indemnity,11193.41,YES
+CLM000249,Direct Deposit,Property Damage,Indemnity,12241.35,NO
+CLM000284,Check,Medical,Expense,41905.31,NO
+CLM000573,Credit Card,Medical,Indemnity,32550.9,YES
+CLM000411,Check,Property Damage,Indemnity,17012.78,NO
+CLM000844,Direct Deposit,Property Damage,Expense,9877.18,NO
+CLM000876,Direct Deposit,Vehicle Repair,Indemnity,24497.01,YES
+CLM000285,Check,Vehicle Repair,Indemnity,16995.76,YES
+CLM000910,Direct Deposit,Medical,Indemnity,20024.67,NO
+CLM000594,Credit Card,Medical,Indemnity,26461.46,YES
+CLM000919,Check,Vehicle Repair,Expense,8076.08,NO
+CLM000484,Credit Card,Property Damage,Expense,38756.93,YES
+CLM000807,Direct Deposit,Property Damage,Expense,20544.37,NO
+CLM000553,Check,Property Damage,Indemnity,49915.32,YES
+CLM000277,Credit Card,Vehicle Repair,Expense,12549.72,YES
+CLM000724,Direct Deposit,Property Damage,Expense,22556.7,YES
+CLM000704,Credit Card,Medical,Expense,6970.29,YES
+CLM000236,Credit Card,Property Damage,Indemnity,31121.28,YES
+CLM000062,Check,Medical,Expense,40126.7,YES
+CLM000223,Check,Medical,Expense,39651.87,NO
+CLM000361,Direct Deposit,Medical,Indemnity,30269.06,YES
+CLM000624,Credit Card,Property Damage,Expense,28027.39,YES
+CLM000353,Direct Deposit,Property Damage,Indemnity,45034.55,NO
+CLM000262,Direct Deposit,Vehicle Repair,Expense,27072.16,NO
+CLM000567,Credit Card,Property Damage,Expense,24204.21,NO
+CLM000235,Direct Deposit,Medical,Indemnity,41777.72,YES
+CLM000955,Credit Card,Property Damage,Indemnity,36751.06,YES
+CLM000506,Check,Vehicle Repair,Expense,47966.17,YES
+CLM000373,Credit Card,Vehicle Repair,Indemnity,8024.7,NO
+CLM000642,Credit Card,Vehicle Repair,Expense,8885.98,NO
+CLM000835,Direct Deposit,Vehicle Repair,Expense,6671.66,YES
+CLM000168,Check,Property Damage,Indemnity,33574.93,NO
+CLM000193,Direct Deposit,Medical,Indemnity,36399.97,YES
+CLM000003,Check,Vehicle Repair,Indemnity,2178.76,NO
+CLM000573,Direct Deposit,Property Damage,Indemnity,690.49,YES
+CLM000214,Check,Property Damage,Expense,7356.94,NO
+CLM000236,Credit Card,Vehicle Repair,Expense,3311.3,NO
+CLM000593,Direct Deposit,Property Damage,Indemnity,39679.56,NO
+CLM000870,Credit Card,Property Damage,Indemnity,8447.74,NO
+CLM000305,Credit Card,Vehicle Repair,Indemnity,39962.3,NO
+CLM000037,Credit Card,Property Damage,Indemnity,34577.37,NO
+CLM000359,Credit Card,Medical,Indemnity,37075.43,NO
+CLM000405,Check,Vehicle Repair,Indemnity,7403.5,YES
+CLM000678,Direct Deposit,Property Damage,Expense,26028.74,NO
+CLM000824,Direct Deposit,Medical,Indemnity,47054.88,YES
+CLM000761,Credit Card,Medical,Indemnity,10142.83,YES
+CLM000847,Credit Card,Medical,Indemnity,4192.71,YES
+CLM000318,Direct Deposit,Medical,Indemnity,39683.06,NO
+CLM000686,Check,Property Damage,Expense,22585.17,NO
+CLM000792,Check,Property Damage,Indemnity,1020.78,NO
+CLM000464,Credit Card,Vehicle Repair,Expense,37208.04,YES
+CLM000975,Credit Card,Medical,Expense,42341.4,NO
+CLM000640,Direct Deposit,Medical,Expense,10164.97,YES
+CLM000683,Check,Vehicle Repair,Indemnity,10885.22,YES
+CLM000186,Direct Deposit,Vehicle Repair,Expense,43047.16,YES
+CLM000474,Credit Card,Medical,Expense,26840.22,YES
+CLM000104,Check,Property Damage,Indemnity,25778.17,YES
+CLM000479,Credit Card,Property Damage,Expense,28656.64,YES
+CLM000445,Direct Deposit,Property Damage,Expense,4350.39,NO
+CLM000692,Credit Card,Medical,Expense,32377.69,YES
+CLM000803,Check,Property Damage,Indemnity,45172.33,YES
+CLM000532,Credit Card,Property Damage,Indemnity,40622.15,NO
+CLM000217,Credit Card,Property Damage,Indemnity,10228.0,YES
+CLM000077,Check,Vehicle Repair,Indemnity,12906.58,YES
+CLM000602,Check,Vehicle Repair,Indemnity,13195.6,YES
+CLM000681,Direct Deposit,Medical,Indemnity,22017.59,YES
+CLM000173,Direct Deposit,Medical,Indemnity,22354.35,NO
+CLM000542,Credit Card,Vehicle Repair,Expense,29276.56,YES
+CLM000370,Credit Card,Medical,Indemnity,43108.07,NO
+CLM000568,Direct Deposit,Medical,Indemnity,9003.25,NO
+CLM000794,Credit Card,Property Damage,Indemnity,34467.26,YES
+CLM000083,Check,Vehicle Repair,Expense,30466.03,NO
+CLM000281,Check,Property Damage,Expense,39940.74,NO
+CLM000670,Credit Card,Medical,Expense,11688.07,NO
+CLM000193,Check,Property Damage,Expense,9201.56,YES
+CLM000696,Credit Card,Vehicle Repair,Expense,15839.94,YES
+CLM000942,Credit Card,Medical,Indemnity,19052.61,YES
+CLM000465,Check,Vehicle Repair,Indemnity,30878.94,NO
+CLM000616,Check,Vehicle Repair,Indemnity,46715.19,NO
+CLM000038,Direct Deposit,Medical,Expense,42757.18,YES
+CLM000278,Credit Card,Property Damage,Indemnity,25699.18,NO
+CLM000969,Credit Card,Property Damage,Expense,24710.48,NO
+CLM000807,Check,Vehicle Repair,Indemnity,6250.56,NO
+CLM000959,Direct Deposit,Property Damage,Indemnity,23933.76,YES
+CLM000218,Direct Deposit,Vehicle Repair,Expense,47914.3,YES
+CLM000883,Credit Card,Property Damage,Indemnity,33145.83,YES
+CLM000295,Check,Property Damage,Expense,12568.54,NO
+CLM000883,Check,Medical,Expense,48234.97,NO
+CLM000125,Direct Deposit,Medical,Expense,39331.36,YES
+CLM000114,Direct Deposit,Vehicle Repair,Indemnity,7670.06,YES
+CLM000924,Direct Deposit,Property Damage,Expense,36320.28,NO
+CLM000624,Direct Deposit,Vehicle Repair,Expense,46558.97,YES
+CLM000585,Credit Card,Medical,Indemnity,6434.87,YES
+CLM000743,Check,Medical,Indemnity,9757.77,YES
+CLM000489,Credit Card,Vehicle Repair,Indemnity,19062.1,NO
+CLM000906,Credit Card,Vehicle Repair,Indemnity,1463.27,YES
+CLM000840,Credit Card,Vehicle Repair,Expense,16003.63,NO
+CLM000431,Check,Property Damage,Expense,11086.45,NO
+CLM000538,Direct Deposit,Property Damage,Indemnity,20143.3,YES
+CLM000046,Direct Deposit,Vehicle Repair,Expense,7786.39,YES
+CLM000727,Direct Deposit,Vehicle Repair,Expense,2189.27,NO
+CLM000893,Direct Deposit,Medical,Expense,37161.56,YES
+CLM000245,Credit Card,Medical,Indemnity,2170.36,YES
+CLM000431,Direct Deposit,Medical,Indemnity,37435.91,YES
+CLM000777,Credit Card,Medical,Expense,47689.37,YES
+CLM000979,Direct Deposit,Vehicle Repair,Expense,1798.12,YES
+CLM000736,Check,Medical,Indemnity,1239.01,NO
+CLM000388,Check,Vehicle Repair,Indemnity,6448.23,YES
+CLM000392,Check,Property Damage,Indemnity,27781.31,YES
+CLM000298,Credit Card,Vehicle Repair,Expense,26312.24,NO
+CLM000023,Credit Card,Medical,Indemnity,27994.26,YES
+CLM000977,Direct Deposit,Medical,Expense,3356.56,YES
+CLM000632,Direct Deposit,Medical,Indemnity,18266.87,YES
+CLM000823,Check,Vehicle Repair,Expense,36741.18,NO
+CLM000728,Check,Medical,Expense,3041.72,NO
+CLM000908,Check,Property Damage,Indemnity,22882.53,NO
+CLM000190,Direct Deposit,Medical,Indemnity,28783.48,NO
+CLM000527,Check,Property Damage,Indemnity,21812.5,NO
+CLM000920,Credit Card,Vehicle Repair,Expense,18895.96,NO
+CLM000005,Check,Medical,Indemnity,28262.59,YES
+CLM000807,Check,Medical,Expense,7700.46,NO
+CLM000181,Check,Medical,Expense,23644.37,NO
+CLM000737,Check,Vehicle Repair,Expense,10188.51,NO
+CLM000073,Check,Vehicle Repair,Indemnity,29275.69,YES
+CLM000952,Check,Property Damage,Expense,27399.09,YES
+CLM000062,Direct Deposit,Medical,Indemnity,35079.96,YES
+CLM000469,Check,Property Damage,Expense,120.19,YES
+CLM000840,Direct Deposit,Medical,Indemnity,344.79,YES
+CLM000314,Credit Card,Property Damage,Indemnity,6481.08,NO
+CLM000008,Credit Card,Property Damage,Indemnity,466.19,YES
+CLM000410,Check,Property Damage,Indemnity,5675.84,NO
+CLM000221,Credit Card,Medical,Expense,17821.25,NO
+CLM000138,Check,Property Damage,Indemnity,25504.35,YES
+CLM000612,Direct Deposit,Vehicle Repair,Expense,44894.03,NO
+CLM000064,Check,Vehicle Repair,Indemnity,36397.93,YES
+CLM000426,Check,Medical,Indemnity,47474.64,NO
+CLM000710,Credit Card,Vehicle Repair,Indemnity,22272.19,NO
+CLM000742,Direct Deposit,Medical,Expense,25443.76,NO
+CLM000983,Check,Property Damage,Expense,26042.9,YES
+CLM000080,Check,Medical,Indemnity,35357.64,NO
+CLM000680,Direct Deposit,Vehicle Repair,Expense,28553.69,YES
+CLM000050,Check,Medical,Expense,27038.42,YES
+CLM000577,Credit Card,Vehicle Repair,Expense,13668.78,YES
+CLM000667,Credit Card,Vehicle Repair,Expense,33939.47,YES
+CLM000256,Direct Deposit,Vehicle Repair,Indemnity,44381.16,YES
+CLM000394,Check,Vehicle Repair,Expense,30620.27,NO
+CLM000500,Check,Vehicle Repair,Indemnity,46658.25,YES
+CLM000501,Direct Deposit,Vehicle Repair,Indemnity,5047.77,NO
+CLM000623,Direct Deposit,Medical,Indemnity,27481.38,YES
+CLM000383,Direct Deposit,Medical,Indemnity,43371.46,YES
+CLM000619,Credit Card,Vehicle Repair,Indemnity,44680.06,NO
+CLM000853,Credit Card,Vehicle Repair,Indemnity,30723.66,YES
+CLM000913,Direct Deposit,Medical,Indemnity,286.13,NO
+CLM000404,Check,Property Damage,Expense,15279.62,NO
+CLM000554,Credit Card,Vehicle Repair,Expense,42758.58,YES
+CLM000688,Check,Property Damage,Expense,28114.2,YES
+CLM000908,Credit Card,Medical,Expense,11993.84,NO
+CLM000992,Check,Medical,Expense,27008.04,YES
+CLM000011,Direct Deposit,Property Damage,Indemnity,27433.87,YES
+CLM000156,Direct Deposit,Property Damage,Indemnity,19333.56,NO
+CLM000625,Check,Property Damage,Indemnity,28929.92,NO
+CLM000391,Check,Property Damage,Indemnity,40695.64,YES
+CLM000628,Credit Card,Vehicle Repair,Indemnity,6468.51,YES
+CLM000023,Credit Card,Medical,Indemnity,11183.12,NO
+CLM000475,Credit Card,Property Damage,Expense,3667.33,NO
+CLM000075,Credit Card,Medical,Expense,1491.85,NO
+CLM000036,Direct Deposit,Property Damage,Expense,19175.24,YES
+CLM000323,Check,Vehicle Repair,Indemnity,5884.81,NO
+CLM000047,Check,Vehicle Repair,Expense,40275.72,NO
+CLM000228,Credit Card,Property Damage,Expense,30633.82,YES
+CLM000717,Credit Card,Medical,Indemnity,12788.87,NO
+CLM000066,Credit Card,Medical,Expense,6407.29,YES
+CLM000997,Credit Card,Medical,Indemnity,35374.58,NO
+CLM000544,Direct Deposit,Property Damage,Indemnity,10626.49,YES
+CLM000077,Credit Card,Medical,Indemnity,30039.55,YES
+CLM000820,Credit Card,Vehicle Repair,Indemnity,48644.04,YES
+CLM000796,Direct Deposit,Vehicle Repair,Indemnity,35354.89,YES
+CLM000904,Direct Deposit,Property Damage,Expense,19198.3,NO
+CLM000007,Credit Card,Vehicle Repair,Indemnity,48933.5,YES
+CLM000829,Direct Deposit,Property Damage,Expense,727.33,NO
+CLM000969,Check,Vehicle Repair,Expense,3340.91,NO
+CLM000655,Direct Deposit,Medical,Indemnity,38989.27,YES
+CLM000862,Direct Deposit,Medical,Expense,25513.05,YES
+CLM000497,Direct Deposit,Vehicle Repair,Expense,46898.97,NO
+CLM000096,Credit Card,Medical,Expense,596.1,NO
+CLM000518,Check,Medical,Indemnity,12873.78,YES
+CLM000119,Credit Card,Vehicle Repair,Indemnity,49738.49,YES
+CLM000515,Check,Vehicle Repair,Indemnity,27209.09,NO
+CLM000074,Credit Card,Medical,Expense,46423.42,NO
+CLM000641,Direct Deposit,Property Damage,Indemnity,49339.14,NO
+CLM000601,Direct Deposit,Vehicle Repair,Indemnity,5597.46,YES
+CLM000581,Check,Vehicle Repair,Indemnity,17669.98,YES
+CLM000597,Credit Card,Medical,Expense,28726.49,NO
+CLM000722,Credit Card,Property Damage,Expense,1823.04,YES
+CLM000646,Check,Property Damage,Expense,32925.99,NO
+CLM000032,Credit Card,Medical,Indemnity,30363.27,NO
+CLM000079,Direct Deposit,Property Damage,Expense,19579.21,NO
+CLM000483,Check,Property Damage,Indemnity,23360.0,YES
+CLM000353,Credit Card,Property Damage,Indemnity,13960.41,YES
+CLM000180,Credit Card,Property Damage,Expense,24872.11,NO
+CLM000626,Credit Card,Vehicle Repair,Expense,40479.72,NO
+CLM000031,Check,Medical,Indemnity,30493.53,NO
+CLM000471,Credit Card,Property Damage,Indemnity,26082.53,YES
+CLM000694,Direct Deposit,Vehicle Repair,Expense,46630.36,NO
+CLM000205,Credit Card,Medical,Expense,35073.75,NO
+CLM000803,Check,Vehicle Repair,Expense,16246.24,NO
+CLM000960,Check,Property Damage,Indemnity,46097.42,NO
+CLM000159,Credit Card,Property Damage,Expense,43832.28,YES
+CLM000785,Check,Property Damage,Indemnity,21249.11,NO
+CLM000017,Check,Property Damage,Expense,3433.93,YES
+CLM000679,Check,Medical,Expense,6625.59,YES
+CLM000286,Direct Deposit,Vehicle Repair,Expense,41381.16,NO
+CLM000626,Direct Deposit,Medical,Indemnity,38503.84,YES
+CLM000243,Check,Medical,Indemnity,11064.42,NO
+CLM000066,Direct Deposit,Medical,Indemnity,36241.31,NO
+CLM000187,Credit Card,Vehicle Repair,Indemnity,10548.99,NO
+CLM000216,Check,Medical,Expense,27339.07,NO
+CLM000889,Credit Card,Vehicle Repair,Indemnity,36701.44,YES
+CLM000086,Check,Property Damage,Indemnity,19795.55,NO
+CLM000102,Direct Deposit,Property Damage,Expense,49738.58,YES
+CLM000708,Credit Card,Property Damage,Indemnity,34402.6,YES
+CLM000878,Credit Card,Property Damage,Indemnity,10988.82,NO
+CLM000186,Credit Card,Vehicle Repair,Expense,28510.51,YES
+CLM000985,Check,Medical,Expense,48608.15,NO
+CLM000245,Credit Card,Medical,Indemnity,9124.8,NO
+CLM000987,Credit Card,Medical,Indemnity,47872.66,YES
+CLM000594,Credit Card,Property Damage,Indemnity,11734.93,NO
+CLM000715,Credit Card,Property Damage,Indemnity,47209.87,YES
+CLM000302,Direct Deposit,Vehicle Repair,Expense,8713.12,NO
+CLM000223,Direct Deposit,Medical,Expense,20930.25,NO
+CLM000528,Credit Card,Vehicle Repair,Expense,13733.49,YES
+CLM000524,Credit Card,Property Damage,Indemnity,25624.04,NO
+CLM000239,Check,Medical,Expense,12575.86,YES
+CLM000706,Direct Deposit,Property Damage,Expense,34170.04,YES
+CLM000896,Credit Card,Property Damage,Expense,25366.06,NO
+CLM000069,Credit Card,Vehicle Repair,Indemnity,18680.76,NO
+CLM000588,Check,Medical,Indemnity,20113.75,YES
+CLM000599,Credit Card,Property Damage,Indemnity,8427.06,NO
+CLM000551,Check,Medical,Indemnity,48087.78,YES
+CLM000417,Check,Medical,Indemnity,31885.08,YES
+CLM000172,Check,Medical,Expense,25122.68,YES
+CLM000310,Credit Card,Medical,Indemnity,23013.4,YES
+CLM000866,Check,Vehicle Repair,Indemnity,17834.63,YES
+CLM000695,Direct Deposit,Property Damage,Expense,45834.22,YES
+CLM000221,Credit Card,Medical,Expense,41568.28,YES
+CLM000259,Credit Card,Property Damage,Indemnity,27263.03,YES
+CLM000351,Check,Medical,Expense,11723.78,YES
+CLM000268,Direct Deposit,Vehicle Repair,Expense,42615.35,YES
+CLM000668,Check,Vehicle Repair,Indemnity,35428.75,YES
+CLM000642,Direct Deposit,Medical,Indemnity,1947.64,NO
+CLM000379,Credit Card,Vehicle Repair,Indemnity,32330.41,YES
+CLM000197,Credit Card,Medical,Expense,20070.0,NO
+CLM000227,Check,Vehicle Repair,Indemnity,17244.17,NO
+CLM000742,Check,Vehicle Repair,Indemnity,19714.47,YES
+CLM000209,Credit Card,Vehicle Repair,Expense,9708.01,NO
+CLM000888,Credit Card,Vehicle Repair,Indemnity,10287.17,NO
+CLM000321,Credit Card,Vehicle Repair,Expense,33275.36,YES
+CLM000560,Credit Card,Property Damage,Expense,14462.64,YES
+CLM000647,Direct Deposit,Vehicle Repair,Expense,22047.72,NO
+CLM000026,Credit Card,Medical,Indemnity,5111.11,NO
+CLM000499,Credit Card,Medical,Indemnity,31131.96,NO
+CLM000364,Credit Card,Vehicle Repair,Indemnity,33543.59,YES
+CLM000916,Direct Deposit,Medical,Expense,16979.31,NO
+CLM000699,Direct Deposit,Vehicle Repair,Expense,26656.61,YES
+CLM000812,Credit Card,Vehicle Repair,Expense,1829.89,NO
+CLM000298,Direct Deposit,Property Damage,Expense,17472.94,YES
+CLM000074,Check,Property Damage,Indemnity,47411.6,NO
+CLM000048,Credit Card,Vehicle Repair,Expense,16699.52,NO
+CLM000266,Check,Vehicle Repair,Indemnity,2872.2,YES
+CLM000096,Check,Property Damage,Indemnity,3932.78,NO
+CLM000434,Direct Deposit,Vehicle Repair,Expense,25794.79,YES
+CLM000550,Credit Card,Vehicle Repair,Indemnity,17789.21,NO
+CLM000980,Check,Vehicle Repair,Indemnity,31955.8,YES
+CLM000308,Credit Card,Property Damage,Indemnity,46641.76,NO
+CLM000372,Check,Vehicle Repair,Expense,25524.98,YES
+CLM000199,Credit Card,Vehicle Repair,Indemnity,19413.3,YES
+CLM000877,Direct Deposit,Medical,Expense,44536.1,NO
+CLM000524,Direct Deposit,Property Damage,Indemnity,9937.28,NO
+CLM000347,Direct Deposit,Medical,Expense,25466.88,NO
+CLM000865,Direct Deposit,Vehicle Repair,Expense,22695.43,YES
+CLM000304,Check,Property Damage,Expense,27922.19,YES
+CLM000914,Check,Property Damage,Expense,37404.4,YES
+CLM000872,Check,Property Damage,Indemnity,43206.22,YES
+CLM000893,Credit Card,Medical,Expense,47841.46,NO
+CLM000387,Check,Vehicle Repair,Indemnity,33846.24,YES
+CLM000385,Check,Vehicle Repair,Expense,32112.35,NO
+CLM000189,Check,Medical,Indemnity,4562.41,YES
+CLM000192,Direct Deposit,Medical,Indemnity,10685.54,YES
+CLM000244,Check,Property Damage,Indemnity,23540.66,YES
+CLM000679,Direct Deposit,Vehicle Repair,Indemnity,6041.21,YES
+CLM000581,Direct Deposit,Medical,Indemnity,22008.98,NO
+CLM000328,Direct Deposit,Property Damage,Indemnity,26780.57,YES
+CLM000170,Credit Card,Medical,Expense,4150.54,NO
+CLM000845,Credit Card,Medical,Indemnity,393.42,NO
+CLM000869,Direct Deposit,Medical,Expense,19761.68,NO
+CLM000998,Check,Vehicle Repair,Expense,32537.38,NO
+CLM000844,Check,Property Damage,Expense,25034.03,YES
+CLM000045,Credit Card,Vehicle Repair,Indemnity,4782.49,YES
+CLM000347,Check,Property Damage,Indemnity,38416.72,NO
+CLM000338,Credit Card,Medical,Expense,11194.15,YES
+CLM000124,Credit Card,Property Damage,Indemnity,34217.68,NO
+CLM000267,Credit Card,Vehicle Repair,Indemnity,10465.46,YES
+CLM000733,Check,Property Damage,Indemnity,14817.5,YES
+CLM000933,Credit Card,Vehicle Repair,Indemnity,41454.5,NO
+CLM000205,Credit Card,Vehicle Repair,Expense,14531.88,NO
+CLM000698,Credit Card,Vehicle Repair,Indemnity,45641.29,NO
+CLM000284,Direct Deposit,Vehicle Repair,Indemnity,32027.87,YES
+CLM000554,Check,Vehicle Repair,Indemnity,23232.88,NO
+CLM000864,Check,Property Damage,Indemnity,38018.62,YES
+CLM000099,Direct Deposit,Medical,Expense,3198.05,NO
+CLM000955,Credit Card,Medical,Expense,23652.93,NO
+CLM000236,Check,Medical,Indemnity,25619.12,YES
+CLM000692,Check,Medical,Indemnity,36555.65,YES
+CLM000719,Credit Card,Property Damage,Indemnity,16671.37,NO
+CLM000877,Check,Medical,Expense,4230.37,NO
+CLM000543,Check,Medical,Indemnity,2019.28,NO
+CLM000854,Credit Card,Medical,Expense,26961.41,NO
+CLM000553,Credit Card,Medical,Indemnity,35612.84,NO
+CLM000637,Direct Deposit,Medical,Expense,43903.27,NO
+CLM000682,Check,Property Damage,Indemnity,47706.35,YES
+CLM000277,Check,Vehicle Repair,Expense,40452.31,YES
+CLM000392,Credit Card,Property Damage,Expense,24562.66,YES
+CLM000796,Credit Card,Medical,Indemnity,26152.76,NO
+CLM000373,Direct Deposit,Medical,Expense,7675.0,YES
+CLM000990,Check,Property Damage,Expense,38926.55,NO
+CLM000657,Direct Deposit,Medical,Expense,20494.88,YES
+CLM000413,Credit Card,Medical,Indemnity,29670.17,YES
+CLM000754,Check,Property Damage,Expense,3682.98,YES
+CLM000807,Credit Card,Property Damage,Indemnity,4350.91,NO
+CLM000647,Credit Card,Property Damage,Expense,4553.18,NO
+CLM000697,Check,Vehicle Repair,Indemnity,1203.72,YES
+CLM000681,Credit Card,Medical,Indemnity,8158.57,NO
+CLM000585,Check,Property Damage,Expense,42484.74,NO
+CLM000429,Direct Deposit,Property Damage,Expense,8811.81,YES
+CLM000430,Direct Deposit,Vehicle Repair,Expense,34763.64,NO
+CLM000951,Check,Property Damage,Indemnity,1955.54,YES
+CLM000891,Credit Card,Property Damage,Expense,31251.85,NO
+CLM000702,Direct Deposit,Vehicle Repair,Indemnity,49459.05,YES
+CLM000456,Check,Medical,Expense,21946.98,YES
+CLM000960,Credit Card,Medical,Indemnity,39421.28,YES
+CLM000740,Credit Card,Property Damage,Expense,35924.08,YES
+CLM000781,Check,Medical,Expense,35251.92,YES
+CLM000377,Direct Deposit,Property Damage,Indemnity,45085.19,NO
+CLM000409,Direct Deposit,Vehicle Repair,Expense,26775.32,YES
+CLM000239,Direct Deposit,Property Damage,Indemnity,37428.53,YES
+CLM000769,Credit Card,Property Damage,Indemnity,16234.87,NO
+CLM000613,Credit Card,Vehicle Repair,Indemnity,38699.84,NO
+CLM000183,Direct Deposit,Vehicle Repair,Expense,21712.74,YES
+CLM000166,Check,Vehicle Repair,Expense,39999.44,NO
+CLM000861,Credit Card,Vehicle Repair,Expense,33234.28,NO
+CLM000647,Credit Card,Vehicle Repair,Expense,6481.49,YES
+CLM000416,Check,Medical,Indemnity,10528.59,NO
+CLM000845,Direct Deposit,Vehicle Repair,Indemnity,26117.25,YES
+CLM000670,Check,Vehicle Repair,Indemnity,46857.67,YES
+CLM000145,Check,Property Damage,Indemnity,9218.42,YES
+CLM000700,Check,Medical,Indemnity,31021.82,NO
+CLM000126,Credit Card,Vehicle Repair,Indemnity,34571.32,YES
+CLM000575,Credit Card,Medical,Expense,37692.33,NO
+CLM000953,Credit Card,Property Damage,Expense,19093.9,NO
+CLM000139,Check,Property Damage,Expense,38432.68,NO
+CLM000983,Direct Deposit,Medical,Expense,25131.8,NO
+CLM000320,Direct Deposit,Property Damage,Indemnity,39289.04,NO
+CLM000515,Credit Card,Medical,Indemnity,8582.9,NO
+CLM000729,Direct Deposit,Medical,Expense,9227.52,YES
+CLM000723,Check,Medical,Expense,37962.62,YES
+CLM000535,Check,Vehicle Repair,Indemnity,42221.6,NO
+CLM000528,Credit Card,Property Damage,Expense,43448.67,YES
+CLM000036,Check,Medical,Indemnity,23489.93,NO
+CLM000911,Credit Card,Vehicle Repair,Expense,40245.27,YES
+CLM000500,Credit Card,Vehicle Repair,Indemnity,31989.27,NO
+CLM000275,Check,Vehicle Repair,Expense,26355.93,NO
+CLM000646,Direct Deposit,Vehicle Repair,Expense,35539.04,NO
+CLM000947,Credit Card,Medical,Indemnity,116.65,NO
+CLM000933,Credit Card,Property Damage,Expense,47450.09,YES
+CLM000002,Direct Deposit,Vehicle Repair,Expense,24539.59,NO
+CLM000592,Direct Deposit,Medical,Indemnity,6137.21,NO
+CLM000207,Check,Medical,Expense,26423.33,YES
+CLM000464,Credit Card,Vehicle Repair,Expense,47976.88,YES
+CLM000835,Credit Card,Medical,Indemnity,35297.36,NO
+CLM000489,Check,Vehicle Repair,Indemnity,20028.14,NO
+CLM000610,Direct Deposit,Vehicle Repair,Expense,16594.04,YES
+CLM000490,Credit Card,Property Damage,Expense,32806.45,YES
+CLM000427,Credit Card,Vehicle Repair,Indemnity,10186.11,NO
+CLM000305,Credit Card,Property Damage,Indemnity,20529.62,YES
+CLM000349,Check,Vehicle Repair,Indemnity,17680.15,NO
+CLM000818,Direct Deposit,Property Damage,Expense,6760.26,NO
+CLM000090,Credit Card,Property Damage,Expense,12129.19,YES
+CLM000242,Credit Card,Vehicle Repair,Indemnity,39024.28,NO
+CLM000196,Check,Medical,Expense,44494.19,NO
+CLM000494,Credit Card,Vehicle Repair,Expense,42563.67,NO
+CLM000301,Check,Vehicle Repair,Indemnity,24911.66,NO
+CLM000422,Check,Property Damage,Expense,10504.11,NO
+CLM000867,Direct Deposit,Vehicle Repair,Expense,30682.81,NO
+CLM000244,Direct Deposit,Medical,Expense,23700.35,NO
+CLM000441,Credit Card,Property Damage,Expense,21005.68,YES
+CLM000238,Credit Card,Medical,Expense,35466.02,YES
+CLM000430,Credit Card,Vehicle Repair,Indemnity,36919.15,YES
+CLM000590,Direct Deposit,Medical,Expense,29410.62,YES
+CLM000359,Credit Card,Property Damage,Expense,20532.4,YES
+CLM000346,Credit Card,Vehicle Repair,Expense,49879.08,NO
+CLM000247,Credit Card,Property Damage,Indemnity,9252.03,YES
+CLM000332,Check,Medical,Expense,29806.11,NO
+CLM000560,Credit Card,Medical,Expense,6176.21,NO
+CLM000750,Check,Property Damage,Expense,2027.15,YES
+CLM000862,Direct Deposit,Property Damage,Indemnity,22442.24,YES
+CLM000481,Direct Deposit,Medical,Expense,48377.36,NO
+CLM000779,Credit Card,Vehicle Repair,Expense,41040.3,NO
+CLM000274,Direct Deposit,Medical,Indemnity,36225.99,NO
+CLM000967,Credit Card,Vehicle Repair,Expense,39329.67,YES
+CLM000251,Credit Card,Property Damage,Indemnity,31044.72,NO
+CLM000667,Direct Deposit,Vehicle Repair,Expense,43344.43,YES
+CLM000710,Check,Vehicle Repair,Expense,11200.24,NO
+CLM000623,Credit Card,Medical,Expense,32758.18,YES
+CLM000541,Direct Deposit,Vehicle Repair,Indemnity,27725.84,NO
+CLM000454,Check,Vehicle Repair,Expense,11226.29,NO
+CLM000440,Direct Deposit,Vehicle Repair,Expense,22062.71,NO
+CLM000418,Credit Card,Vehicle Repair,Expense,15124.68,NO
+CLM000779,Credit Card,Vehicle Repair,Indemnity,19650.16,NO
+CLM000653,Check,Property Damage,Indemnity,35297.14,NO
+CLM000680,Credit Card,Vehicle Repair,Indemnity,41976.32,NO
+CLM000345,Credit Card,Vehicle Repair,Indemnity,27440.14,YES
+CLM000116,Direct Deposit,Medical,Indemnity,26932.63,NO
+CLM000442,Check,Medical,Expense,45250.43,YES
+CLM000513,Credit Card,Vehicle Repair,Expense,876.8,NO
+CLM000458,Check,Vehicle Repair,Indemnity,23605.68,NO
+CLM000264,Direct Deposit,Property Damage,Indemnity,15503.33,YES
+CLM000882,Check,Vehicle Repair,Indemnity,31543.7,NO
+CLM000951,Check,Vehicle Repair,Expense,23187.6,YES
+CLM000073,Check,Vehicle Repair,Indemnity,2697.14,YES
+CLM000766,Credit Card,Property Damage,Expense,47589.66,NO
+CLM000108,Credit Card,Medical,Expense,42381.54,YES
+CLM000016,Direct Deposit,Vehicle Repair,Expense,14513.63,YES
+CLM000345,Direct Deposit,Vehicle Repair,Expense,8288.04,NO
+CLM000034,Direct Deposit,Vehicle Repair,Indemnity,1006.55,NO
+CLM000791,Direct Deposit,Property Damage,Expense,48987.29,NO
+CLM000719,Direct Deposit,Medical,Indemnity,12998.22,YES
+CLM000448,Credit Card,Property Damage,Indemnity,10640.02,YES
+CLM000359,Direct Deposit,Vehicle Repair,Expense,49873.37,NO
+CLM000320,Check,Property Damage,Expense,221.91,NO
+CLM000301,Check,Medical,Indemnity,25335.96,NO
+CLM000487,Credit Card,Medical,Expense,17952.36,YES
+CLM000503,Credit Card,Vehicle Repair,Indemnity,28657.02,NO
+CLM000460,Credit Card,Property Damage,Expense,40710.96,YES
+CLM000682,Credit Card,Property Damage,Expense,9939.14,NO
+CLM000427,Direct Deposit,Medical,Indemnity,36204.34,NO
+CLM000905,Credit Card,Medical,Expense,47491.94,YES
+CLM000500,Check,Medical,Indemnity,39282.81,NO
+CLM000610,Direct Deposit,Medical,Indemnity,46817.29,NO
+CLM000374,Check,Property Damage,Expense,29917.43,YES
+CLM000124,Check,Property Damage,Expense,49239.73,NO
+CLM000591,Credit Card,Property Damage,Expense,41100.48,NO
+CLM000378,Direct Deposit,Medical,Expense,49166.32,YES
+CLM000834,Check,Property Damage,Indemnity,20131.23,NO
+CLM000142,Check,Medical,Indemnity,41394.75,NO
+CLM000010,Credit Card,Medical,Expense,13204.86,YES
+CLM000714,Check,Medical,Expense,34817.02,NO
+CLM000732,Credit Card,Vehicle Repair,Indemnity,32673.55,YES
+CLM000876,Credit Card,Property Damage,Indemnity,47438.48,NO
+CLM000136,Credit Card,Property Damage,Expense,21855.29,NO
+CLM000136,Check,Vehicle Repair,Expense,9398.88,NO
+CLM000734,Credit Card,Property Damage,Expense,40091.05,YES
+CLM000777,Check,Property Damage,Indemnity,41206.24,NO
+CLM000923,Direct Deposit,Property Damage,Indemnity,49027.56,YES
+CLM000951,Direct Deposit,Medical,Expense,21376.26,NO
+CLM000674,Check,Vehicle Repair,Expense,22229.04,NO
+CLM000743,Direct Deposit,Medical,Expense,8727.74,YES
+CLM000357,Check,Vehicle Repair,Expense,39790.23,YES
+CLM000694,Direct Deposit,Vehicle Repair,Indemnity,4133.79,NO
+CLM000871,Credit Card,Medical,Indemnity,5422.26,YES
+CLM000899,Credit Card,Vehicle Repair,Expense,7193.56,NO
+CLM000099,Direct Deposit,Property Damage,Indemnity,34717.02,NO
+CLM000201,Direct Deposit,Medical,Expense,6739.13,YES
+CLM000782,Credit Card,Medical,Indemnity,46629.88,YES
+CLM000995,Check,Vehicle Repair,Indemnity,5151.8,NO
+CLM000396,Credit Card,Property Damage,Indemnity,7344.52,NO
+CLM000926,Credit Card,Vehicle Repair,Expense,30010.92,YES
+CLM000132,Credit Card,Vehicle Repair,Indemnity,36185.04,NO
+CLM000326,Check,Property Damage,Expense,28955.94,NO
+CLM000201,Check,Property Damage,Indemnity,24907.54,NO
+CLM000578,Direct Deposit,Vehicle Repair,Indemnity,4479.37,NO
+CLM000425,Direct Deposit,Medical,Indemnity,35582.96,NO
+CLM000300,Direct Deposit,Vehicle Repair,Expense,36467.12,NO
+CLM000040,Check,Medical,Expense,40706.36,YES
+CLM000798,Credit Card,Property Damage,Indemnity,2463.99,NO
+CLM000275,Credit Card,Property Damage,Expense,18042.22,NO
+CLM000118,Check,Property Damage,Expense,33177.47,NO
+CLM000141,Credit Card,Property Damage,Indemnity,31972.52,NO
+CLM000871,Check,Vehicle Repair,Expense,37125.5,YES
+CLM000564,Direct Deposit,Property Damage,Expense,4058.14,YES
+CLM000306,Credit Card,Medical,Indemnity,27343.7,YES
+CLM000679,Credit Card,Vehicle Repair,Expense,26690.68,NO
+CLM000904,Direct Deposit,Medical,Expense,14328.98,YES
+CLM000525,Credit Card,Property Damage,Expense,8221.7,NO
+CLM000986,Check,Vehicle Repair,Indemnity,18156.35,NO
+CLM000634,Credit Card,Medical,Indemnity,1077.46,NO
+CLM000349,Check,Property Damage,Expense,15684.33,YES
+CLM000538,Direct Deposit,Medical,Indemnity,723.59,NO
+CLM000992,Direct Deposit,Medical,Indemnity,47236.54,YES
+CLM000412,Check,Vehicle Repair,Indemnity,31878.87,NO
+CLM000822,Credit Card,Property Damage,Indemnity,38790.88,YES
+CLM000071,Direct Deposit,Property Damage,Expense,43403.69,YES
+CLM000272,Check,Vehicle Repair,Expense,41872.34,NO
+CLM000310,Check,Property Damage,Expense,35393.47,YES
+CLM000774,Check,Medical,Expense,40120.08,NO
+CLM000997,Credit Card,Vehicle Repair,Expense,25824.01,NO
+CLM000736,Direct Deposit,Property Damage,Indemnity,32062.4,NO
+CLM000156,Credit Card,Medical,Expense,30389.38,NO
+CLM000361,Direct Deposit,Vehicle Repair,Indemnity,39843.94,NO
+CLM000268,Credit Card,Medical,Indemnity,14024.23,NO
+CLM000145,Direct Deposit,Vehicle Repair,Expense,3317.63,YES
+CLM000010,Credit Card,Vehicle Repair,Expense,16325.21,YES
+CLM000278,Credit Card,Property Damage,Expense,4695.07,NO
+CLM000121,Check,Medical,Indemnity,39724.81,YES
+CLM000683,Credit Card,Medical,Expense,13378.26,NO
+CLM000904,Check,Vehicle Repair,Expense,36543.84,NO
+CLM000200,Direct Deposit,Vehicle Repair,Expense,609.57,NO
+CLM000298,Direct Deposit,Property Damage,Indemnity,43499.4,NO
+CLM000459,Direct Deposit,Vehicle Repair,Expense,23305.17,NO
+CLM000260,Direct Deposit,Property Damage,Expense,37117.64,YES
+CLM000454,Direct Deposit,Vehicle Repair,Indemnity,29778.15,NO
+CLM000495,Direct Deposit,Medical,Indemnity,8967.21,YES
+CLM000295,Direct Deposit,Vehicle Repair,Expense,22702.08,YES
+CLM000562,Check,Medical,Expense,21221.1,YES
+CLM000383,Credit Card,Property Damage,Indemnity,28684.02,YES
+CLM000902,Direct Deposit,Medical,Expense,42556.57,YES
+CLM000061,Check,Property Damage,Indemnity,29145.14,NO
+CLM000679,Direct Deposit,Property Damage,Indemnity,30435.18,YES
+CLM000937,Check,Medical,Indemnity,49729.82,NO
+CLM000035,Credit Card,Medical,Indemnity,43294.5,YES
+CLM000651,Direct Deposit,Vehicle Repair,Expense,42848.41,NO
+CLM000205,Direct Deposit,Medical,Expense,6959.47,NO
+CLM000927,Direct Deposit,Property Damage,Expense,18786.27,YES
+CLM000701,Credit Card,Vehicle Repair,Indemnity,45689.59,YES
+CLM000236,Credit Card,Vehicle Repair,Indemnity,43047.0,NO
+CLM000016,Check,Vehicle Repair,Indemnity,16235.78,YES
+CLM000870,Credit Card,Medical,Indemnity,19551.15,YES
+CLM000602,Direct Deposit,Property Damage,Indemnity,31008.03,YES
+CLM000764,Check,Vehicle Repair,Indemnity,26266.5,YES
+CLM000964,Check,Property Damage,Expense,6586.44,NO
+CLM000658,Check,Vehicle Repair,Indemnity,12982.87,NO
+CLM000671,Credit Card,Medical,Indemnity,28186.71,YES
+CLM000950,Check,Vehicle Repair,Indemnity,4577.56,NO
+CLM000146,Direct Deposit,Vehicle Repair,Expense,32331.62,YES
+CLM000406,Check,Vehicle Repair,Expense,49768.0,YES
+CLM000333,Check,Medical,Expense,1727.73,NO
+CLM000976,Check,Property Damage,Indemnity,14908.56,YES
+CLM000040,Direct Deposit,Vehicle Repair,Indemnity,15109.15,YES
+CLM000603,Credit Card,Property Damage,Indemnity,4647.16,YES
+CLM000665,Direct Deposit,Vehicle Repair,Expense,47955.86,NO
+CLM000963,Check,Property Damage,Indemnity,46126.79,NO
+CLM000050,Check,Medical,Indemnity,29070.86,YES
+CLM000992,Credit Card,Vehicle Repair,Indemnity,36194.55,YES
+CLM000871,Check,Property Damage,Indemnity,41146.12,YES
+CLM000475,Credit Card,Vehicle Repair,Indemnity,31191.97,YES
+CLM000245,Credit Card,Vehicle Repair,Indemnity,27208.9,NO
+CLM000759,Direct Deposit,Property Damage,Expense,22343.14,NO
+CLM000360,Direct Deposit,Medical,Indemnity,21153.05,NO
+CLM000728,Direct Deposit,Property Damage,Expense,43440.57,NO
+CLM000156,Check,Vehicle Repair,Expense,35107.6,NO
+CLM000277,Credit Card,Vehicle Repair,Indemnity,23643.89,YES
+CLM000862,Check,Property Damage,Indemnity,34453.45,YES
+CLM000233,Direct Deposit,Property Damage,Expense,18920.69,NO
+CLM000929,Direct Deposit,Vehicle Repair,Indemnity,2663.71,NO
+CLM000891,Direct Deposit,Property Damage,Indemnity,37154.9,NO
+CLM000091,Direct Deposit,Medical,Expense,25040.73,NO
+CLM000679,Credit Card,Medical,Indemnity,35458.5,NO
+CLM000707,Direct Deposit,Property Damage,Indemnity,45622.24,YES
+CLM000321,Check,Property Damage,Expense,19292.6,YES
+CLM000067,Direct Deposit,Medical,Indemnity,36788.94,YES
+CLM000897,Credit Card,Vehicle Repair,Indemnity,45078.57,NO
+CLM000536,Credit Card,Medical,Indemnity,48965.21,YES
+CLM000422,Check,Property Damage,Expense,26989.41,YES
+CLM000598,Direct Deposit,Medical,Expense,7441.72,YES
+CLM000342,Direct Deposit,Vehicle Repair,Indemnity,26176.51,NO
+CLM000956,Check,Vehicle Repair,Expense,21391.12,NO
+CLM000647,Direct Deposit,Medical,Expense,40061.93,YES
+CLM000013,Check,Medical,Expense,10558.02,YES
+CLM000045,Credit Card,Vehicle Repair,Expense,2677.29,NO
+CLM000833,Check,Vehicle Repair,Indemnity,14323.26,NO
+CLM000486,Check,Property Damage,Indemnity,33312.56,NO
+CLM000473,Credit Card,Property Damage,Expense,37307.33,NO
+CLM000486,Direct Deposit,Medical,Expense,17161.83,YES
+CLM000857,Direct Deposit,Vehicle Repair,Expense,19070.65,NO
+CLM000803,Credit Card,Property Damage,Expense,3345.0,YES
+CLM000087,Credit Card,Medical,Expense,4914.06,NO
+CLM000272,Credit Card,Property Damage,Indemnity,42045.11,NO
+CLM000683,Check,Vehicle Repair,Expense,26828.28,YES
+CLM000746,Check,Vehicle Repair,Expense,38523.32,NO
+CLM000628,Direct Deposit,Medical,Expense,8536.54,YES
+CLM000308,Check,Vehicle Repair,Expense,25496.88,NO
+CLM000719,Direct Deposit,Property Damage,Indemnity,3867.74,YES
+CLM000706,Credit Card,Medical,Indemnity,43074.46,YES
+CLM000059,Check,Medical,Indemnity,4772.54,YES
+CLM000519,Check,Property Damage,Expense,27724.65,NO
+CLM000441,Credit Card,Medical,Expense,19452.85,NO
+CLM000727,Check,Property Damage,Expense,47717.42,NO
+CLM000847,Direct Deposit,Vehicle Repair,Indemnity,8673.91,NO
+CLM000260,Direct Deposit,Medical,Indemnity,39309.61,NO
+CLM000806,Check,Vehicle Repair,Indemnity,36279.55,YES
+CLM000122,Direct Deposit,Vehicle Repair,Expense,32416.89,NO
+CLM000511,Direct Deposit,Vehicle Repair,Indemnity,19289.76,YES
+CLM000527,Check,Property Damage,Expense,49822.88,YES
+CLM000003,Direct Deposit,Medical,Expense,35708.68,NO
+CLM000290,Check,Medical,Indemnity,21939.85,YES
+CLM000258,Credit Card,Property Damage,Indemnity,5529.96,YES
+CLM000581,Check,Property Damage,Expense,12847.39,YES
+CLM000115,Check,Vehicle Repair,Expense,21190.8,YES
+CLM000058,Credit Card,Property Damage,Expense,2008.73,NO
+CLM000015,Credit Card,Property Damage,Indemnity,14309.58,YES
+CLM000215,Direct Deposit,Medical,Indemnity,9149.65,YES
+CLM000854,Credit Card,Vehicle Repair,Expense,40713.92,YES
+CLM000188,Check,Vehicle Repair,Expense,1848.3,YES
+CLM000419,Direct Deposit,Property Damage,Indemnity,33413.69,NO
+CLM000206,Check,Property Damage,Indemnity,27566.94,YES
+CLM000784,Credit Card,Medical,Indemnity,12471.69,NO
+CLM000762,Credit Card,Vehicle Repair,Expense,5893.2,YES
+CLM000857,Credit Card,Property Damage,Expense,9354.96,YES
+CLM000910,Credit Card,Vehicle Repair,Indemnity,49266.23,NO
+CLM000678,Direct Deposit,Vehicle Repair,Indemnity,47960.31,YES
+CLM000270,Direct Deposit,Vehicle Repair,Expense,14015.68,NO
+CLM000637,Check,Vehicle Repair,Expense,3541.57,YES
+CLM000355,Check,Property Damage,Expense,3406.81,YES
+CLM000825,Check,Medical,Indemnity,46650.12,YES
+CLM000125,Credit Card,Vehicle Repair,Expense,24407.49,YES
+CLM000934,Direct Deposit,Vehicle Repair,Expense,30116.0,NO
+CLM000217,Credit Card,Medical,Indemnity,32003.43,NO
+CLM000802,Credit Card,Property Damage,Indemnity,9564.26,NO
+CLM000302,Check,Medical,Expense,16744.53,YES
+CLM000759,Direct Deposit,Vehicle Repair,Indemnity,46319.79,YES
+CLM000554,Direct Deposit,Vehicle Repair,Expense,2285.3,NO
+CLM000817,Credit Card,Medical,Indemnity,32926.85,YES
+CLM000952,Credit Card,Medical,Indemnity,32829.56,YES
+CLM000687,Credit Card,Vehicle Repair,Expense,29542.92,NO
+CLM000942,Check,Vehicle Repair,Expense,9094.15,YES
+CLM000412,Credit Card,Property Damage,Indemnity,43263.26,YES
+CLM000462,Check,Property Damage,Expense,21580.04,YES
+CLM000638,Direct Deposit,Medical,Indemnity,47569.77,NO
+CLM000286,Direct Deposit,Medical,Expense,20764.18,YES
+CLM000447,Credit Card,Vehicle Repair,Expense,46788.64,YES
+CLM000795,Credit Card,Property Damage,Expense,45761.4,YES
+CLM000642,Credit Card,Vehicle Repair,Indemnity,40639.54,YES
+CLM000884,Direct Deposit,Medical,Indemnity,12493.96,YES
+CLM000976,Check,Medical,Indemnity,38267.47,NO
+CLM000678,Credit Card,Vehicle Repair,Indemnity,23378.15,YES
+CLM000402,Direct Deposit,Medical,Expense,9178.67,YES
+CLM000386,Credit Card,Property Damage,Indemnity,40146.32,NO
+CLM000488,Check,Vehicle Repair,Expense,18057.5,YES
+CLM000272,Check,Vehicle Repair,Expense,2648.23,YES
+CLM000568,Check,Property Damage,Expense,15354.91,NO
+CLM000089,Credit Card,Property Damage,Expense,47654.15,YES
+CLM000790,Check,Vehicle Repair,Expense,5210.32,NO
+CLM000307,Direct Deposit,Vehicle Repair,Indemnity,36651.91,NO
+CLM000110,Check,Property Damage,Expense,15009.36,NO
+CLM000541,Check,Vehicle Repair,Expense,41089.61,YES
+CLM000525,Credit Card,Property Damage,Expense,2795.46,YES
+CLM000659,Direct Deposit,Medical,Indemnity,11075.54,NO
+CLM000359,Credit Card,Vehicle Repair,Expense,38696.57,NO
+CLM000001,Check,Medical,Indemnity,25598.34,NO
+CLM000926,Check,Medical,Expense,22748.16,NO
+CLM000822,Check,Vehicle Repair,Indemnity,23287.72,YES
+CLM000379,Direct Deposit,Vehicle Repair,Expense,36375.49,YES
+CLM000652,Credit Card,Medical,Expense,26545.74,NO
+CLM000950,Credit Card,Medical,Expense,32726.51,NO
+CLM000873,Direct Deposit,Medical,Indemnity,9129.1,YES
+CLM000030,Direct Deposit,Medical,Indemnity,47367.99,YES
+CLM000660,Check,Property Damage,Indemnity,1286.68,YES
+CLM000676,Check,Property Damage,Expense,30247.63,NO
+CLM000770,Check,Property Damage,Indemnity,36335.05,NO
+CLM000169,Check,Property Damage,Expense,554.06,NO
+CLM000547,Credit Card,Medical,Expense,32881.15,NO
+CLM000599,Direct Deposit,Vehicle Repair,Expense,36624.89,YES
+CLM000780,Direct Deposit,Medical,Indemnity,2712.44,NO
+CLM000290,Credit Card,Medical,Expense,38969.68,NO
+CLM000006,Credit Card,Medical,Indemnity,10709.94,YES
+CLM000796,Direct Deposit,Medical,Indemnity,14777.19,NO
+CLM000244,Credit Card,Medical,Indemnity,8077.53,NO
+CLM000542,Credit Card,Property Damage,Expense,7846.63,NO
+CLM000430,Check,Medical,Indemnity,12067.98,YES
+CLM000804,Check,Medical,Indemnity,36173.13,YES
+CLM000466,Direct Deposit,Property Damage,Expense,24850.42,YES
+CLM000215,Credit Card,Medical,Expense,11040.25,YES
+CLM000026,Credit Card,Property Damage,Expense,38543.28,NO
+CLM000865,Check,Medical,Expense,22719.09,NO
+CLM000521,Direct Deposit,Vehicle Repair,Indemnity,45433.8,YES
+CLM000055,Direct Deposit,Property Damage,Indemnity,5592.49,NO
+CLM000971,Check,Vehicle Repair,Expense,38806.84,NO
+CLM000647,Credit Card,Medical,Expense,1103.71,NO
+CLM000210,Credit Card,Vehicle Repair,Indemnity,23066.67,NO
+CLM000294,Direct Deposit,Vehicle Repair,Expense,30440.63,YES
+CLM000304,Check,Medical,Indemnity,48854.78,YES
+CLM000084,Credit Card,Vehicle Repair,Indemnity,46326.05,YES
+CLM000975,Direct Deposit,Property Damage,Expense,46906.76,YES
+CLM000210,Direct Deposit,Vehicle Repair,Expense,9109.39,YES
+CLM000859,Check,Medical,Indemnity,44223.39,YES
+CLM000836,Credit Card,Vehicle Repair,Indemnity,13910.94,NO
+CLM000249,Check,Property Damage,Expense,23783.78,YES
+CLM000557,Check,Medical,Indemnity,22997.86,YES
+CLM000478,Check,Medical,Expense,17977.85,YES
+CLM000861,Credit Card,Medical,Expense,30645.26,NO
+CLM000518,Credit Card,Property Damage,Indemnity,49683.34,NO
+CLM000783,Credit Card,Medical,Expense,5420.24,YES
+CLM000782,Direct Deposit,Property Damage,Expense,36656.3,NO
+CLM000992,Credit Card,Property Damage,Expense,22205.46,YES
+CLM000858,Direct Deposit,Vehicle Repair,Indemnity,45595.12,NO
+CLM000672,Direct Deposit,Medical,Indemnity,43823.83,YES
+CLM000403,Credit Card,Medical,Expense,42327.72,NO
+CLM000399,Credit Card,Property Damage,Expense,36110.42,NO
+CLM000260,Credit Card,Medical,Indemnity,1959.69,YES
+CLM000359,Direct Deposit,Property Damage,Expense,19224.22,NO
+CLM000300,Check,Property Damage,Expense,38289.53,YES
+CLM000173,Check,Medical,Indemnity,15414.77,NO
+CLM000975,Direct Deposit,Property Damage,Indemnity,42236.16,YES
+CLM000509,Direct Deposit,Vehicle Repair,Indemnity,38933.01,YES
+CLM000584,Credit Card,Property Damage,Expense,21723.94,NO
+CLM000678,Credit Card,Medical,Expense,33777.48,NO
+CLM000076,Direct Deposit,Property Damage,Indemnity,45713.97,NO
+CLM000774,Check,Medical,Expense,38215.21,YES
+CLM000960,Direct Deposit,Vehicle Repair,Indemnity,37123.35,NO
+CLM000766,Credit Card,Vehicle Repair,Expense,29816.76,NO
+CLM000954,Credit Card,Vehicle Repair,Expense,17941.62,YES
+CLM000086,Credit Card,Medical,Indemnity,39124.81,NO
+CLM000096,Direct Deposit,Medical,Indemnity,46567.7,YES
+CLM000324,Credit Card,Property Damage,Expense,36947.42,YES
+CLM000521,Direct Deposit,Vehicle Repair,Expense,7012.34,NO
+CLM000265,Credit Card,Vehicle Repair,Expense,31236.79,YES
+CLM000809,Check,Medical,Indemnity,47793.75,YES
+CLM000542,Credit Card,Vehicle Repair,Indemnity,3071.87,NO
+CLM000209,Check,Medical,Indemnity,3619.21,NO
+CLM000881,Credit Card,Vehicle Repair,Indemnity,30326.07,YES
+CLM000908,Check,Property Damage,Indemnity,32602.79,NO
+CLM000175,Check,Medical,Expense,35006.8,YES
+CLM000990,Credit Card,Vehicle Repair,Indemnity,10201.07,NO
+CLM000403,Credit Card,Medical,Indemnity,13465.99,YES
+CLM000883,Direct Deposit,Medical,Expense,1908.71,YES
+CLM000525,Direct Deposit,Property Damage,Expense,26016.92,YES
+CLM000976,Check,Vehicle Repair,Expense,41455.21,NO
+CLM000721,Check,Property Damage,Indemnity,13006.49,NO
+CLM000461,Check,Property Damage,Indemnity,6374.99,YES
+CLM000441,Direct Deposit,Vehicle Repair,Indemnity,45976.02,NO
+CLM000216,Credit Card,Property Damage,Indemnity,47220.54,NO
+CLM000131,Direct Deposit,Vehicle Repair,Indemnity,36221.47,YES
+CLM000655,Check,Medical,Indemnity,23454.23,NO
+CLM000461,Check,Property Damage,Expense,18857.52,YES
+CLM000060,Credit Card,Medical,Indemnity,1543.14,NO
+CLM000176,Credit Card,Property Damage,Expense,49107.73,NO
+CLM000645,Check,Vehicle Repair,Indemnity,12518.84,NO
+CLM000353,Direct Deposit,Medical,Expense,41197.17,NO
+CLM000791,Direct Deposit,Vehicle Repair,Expense,23230.36,YES
+CLM000795,Credit Card,Medical,Expense,15724.35,YES
+CLM000697,Check,Property Damage,Indemnity,5968.92,YES
+CLM000899,Check,Vehicle Repair,Indemnity,1036.03,NO
+CLM000870,Direct Deposit,Property Damage,Expense,610.82,NO
+CLM000719,Credit Card,Vehicle Repair,Expense,45825.34,YES
+CLM000290,Direct Deposit,Medical,Indemnity,18667.21,NO
+CLM000738,Credit Card,Property Damage,Expense,23008.17,YES
+CLM000867,Credit Card,Vehicle Repair,Indemnity,46336.77,YES
+CLM000981,Credit Card,Vehicle Repair,Indemnity,42995.66,NO
+CLM000286,Direct Deposit,Property Damage,Expense,32629.12,NO
+CLM000342,Check,Vehicle Repair,Indemnity,16612.98,YES
+CLM000612,Direct Deposit,Medical,Expense,28756.27,YES
+CLM000302,Direct Deposit,Medical,Expense,43465.93,NO
+CLM000169,Direct Deposit,Property Damage,Expense,41919.14,YES
+CLM000429,Direct Deposit,Property Damage,Indemnity,44068.76,NO
+CLM000638,Direct Deposit,Property Damage,Expense,10972.59,YES
+CLM000649,Credit Card,Medical,Indemnity,46858.77,YES
+CLM000810,Check,Vehicle Repair,Expense,32537.11,NO
+CLM000815,Credit Card,Property Damage,Expense,38900.41,YES
+CLM000734,Direct Deposit,Medical,Expense,46438.98,NO
+CLM000649,Check,Vehicle Repair,Indemnity,47511.16,YES
+CLM000230,Direct Deposit,Medical,Indemnity,35805.75,YES
+CLM000143,Check,Medical,Expense,46951.7,YES
+CLM000981,Credit Card,Property Damage,Indemnity,16572.45,NO
+CLM000390,Direct Deposit,Medical,Expense,11225.28,NO
+CLM000502,Credit Card,Property Damage,Expense,10268.39,YES
+CLM000851,Direct Deposit,Medical,Indemnity,37288.28,YES
+CLM000330,Check,Medical,Expense,47594.18,NO
+CLM000968,Credit Card,Medical,Expense,18696.8,NO
+CLM000344,Check,Property Damage,Indemnity,2453.4,NO
+CLM000411,Direct Deposit,Property Damage,Expense,4813.43,YES
+CLM000952,Check,Medical,Expense,34504.01,YES
+CLM000835,Direct Deposit,Vehicle Repair,Indemnity,1433.87,NO
+CLM000332,Check,Vehicle Repair,Indemnity,4972.42,NO
+CLM000772,Credit Card,Vehicle Repair,Indemnity,3568.17,YES
+CLM000971,Direct Deposit,Property Damage,Indemnity,36458.8,YES
+CLM000260,Direct Deposit,Property Damage,Indemnity,22939.41,NO
+CLM000124,Credit Card,Medical,Expense,3213.19,NO
+CLM000078,Check,Vehicle Repair,Expense,4169.92,NO
+CLM000029,Check,Vehicle Repair,Expense,40061.8,YES
+CLM000141,Check,Vehicle Repair,Indemnity,27697.11,NO
+CLM000269,Credit Card,Vehicle Repair,Indemnity,30621.38,NO
+CLM000173,Credit Card,Property Damage,Indemnity,17447.69,NO
+CLM000632,Check,Vehicle Repair,Expense,10267.1,NO
+CLM000646,Direct Deposit,Medical,Indemnity,44281.96,YES
+CLM000552,Credit Card,Property Damage,Expense,43806.15,NO
+CLM000953,Credit Card,Vehicle Repair,Indemnity,37255.34,YES
+CLM000355,Check,Vehicle Repair,Indemnity,45189.12,YES
+CLM000052,Credit Card,Property Damage,Indemnity,14330.97,NO
+CLM000870,Credit Card,Vehicle Repair,Indemnity,35826.8,YES
+CLM000936,Credit Card,Property Damage,Indemnity,37538.6,YES
+CLM000551,Check,Vehicle Repair,Expense,48891.19,NO
+CLM000812,Credit Card,Medical,Expense,20117.97,NO
+CLM000909,Check,Property Damage,Indemnity,21551.97,NO
+CLM000263,Check,Medical,Indemnity,39873.13,YES
+CLM000460,Credit Card,Medical,Indemnity,8456.77,YES
+CLM000666,Credit Card,Vehicle Repair,Expense,34162.26,YES
+CLM000074,Check,Vehicle Repair,Indemnity,2606.08,NO
+CLM000069,Credit Card,Vehicle Repair,Expense,49170.46,YES
+CLM000693,Credit Card,Vehicle Repair,Indemnity,18525.17,YES
+CLM000674,Credit Card,Property Damage,Indemnity,500.37,YES
+CLM000752,Check,Vehicle Repair,Expense,34080.62,YES
+CLM000482,Direct Deposit,Property Damage,Indemnity,30406.55,YES
+CLM000409,Check,Medical,Expense,5443.33,YES
+CLM000822,Credit Card,Medical,Expense,22938.45,YES
+CLM000010,Direct Deposit,Medical,Indemnity,46854.74,YES
+CLM000742,Check,Property Damage,Expense,1430.79,NO
+CLM000219,Direct Deposit,Property Damage,Indemnity,49493.18,YES
+CLM000992,Check,Medical,Indemnity,39736.04,NO
+CLM000698,Check,Medical,Indemnity,9611.11,YES
+CLM000875,Check,Medical,Indemnity,12112.02,YES
+CLM000261,Direct Deposit,Medical,Expense,33787.75,NO
+CLM000779,Check,Vehicle Repair,Indemnity,26910.83,YES
+CLM000244,Credit Card,Property Damage,Expense,6090.85,NO
+CLM000032,Direct Deposit,Vehicle Repair,Expense,167.39,YES
+CLM000644,Direct Deposit,Property Damage,Indemnity,10759.2,NO
+CLM000822,Direct Deposit,Property Damage,Indemnity,18800.09,YES
+CLM000944,Check,Vehicle Repair,Expense,14512.97,NO
+CLM000559,Direct Deposit,Vehicle Repair,Expense,25113.53,NO
+CLM000927,Direct Deposit,Medical,Expense,28203.97,YES
+CLM000273,Check,Vehicle Repair,Indemnity,8553.58,NO
+CLM000013,Credit Card,Property Damage,Expense,17643.18,NO
+CLM000573,Credit Card,Vehicle Repair,Expense,33758.89,YES
+CLM000096,Direct Deposit,Vehicle Repair,Expense,20407.61,NO
+CLM000230,Check,Medical,Indemnity,36079.41,NO
+CLM000994,Check,Medical,Indemnity,40509.5,YES
+CLM000178,Credit Card,Vehicle Repair,Expense,2110.01,YES
+CLM000953,Direct Deposit,Vehicle Repair,Expense,36382.71,NO
+CLM000126,Direct Deposit,Property Damage,Expense,29368.88,NO
+CLM000885,Check,Vehicle Repair,Expense,17755.67,NO
+CLM000753,Credit Card,Property Damage,Expense,43184.55,YES
+CLM000347,Check,Vehicle Repair,Indemnity,36707.98,YES
+CLM000845,Credit Card,Vehicle Repair,Expense,35121.1,YES
+CLM000875,Direct Deposit,Medical,Indemnity,14723.2,YES
+CLM000116,Direct Deposit,Medical,Expense,39237.71,YES
+CLM000332,Credit Card,Property Damage,Expense,13449.82,NO
+CLM000387,Credit Card,Property Damage,Indemnity,44222.5,YES
+CLM000645,Check,Property Damage,Expense,32197.09,NO
+CLM000840,Direct Deposit,Property Damage,Expense,25005.28,YES
+CLM000211,Direct Deposit,Property Damage,Expense,45844.7,NO
+CLM000449,Credit Card,Vehicle Repair,Indemnity,31091.29,NO
+CLM000208,Credit Card,Property Damage,Expense,44951.08,YES
+CLM000793,Direct Deposit,Property Damage,Expense,27054.73,YES
+CLM000984,Check,Medical,Indemnity,38372.64,YES
+CLM000422,Check,Vehicle Repair,Indemnity,10331.4,NO
+CLM000428,Direct Deposit,Property Damage,Expense,13842.2,YES
+CLM000384,Check,Property Damage,Expense,49778.65,YES
+CLM000982,Check,Vehicle Repair,Indemnity,9512.96,NO
+CLM000014,Direct Deposit,Medical,Indemnity,37242.96,NO
+CLM000903,Check,Vehicle Repair,Expense,43059.02,NO
+CLM000585,Check,Property Damage,Indemnity,8158.84,YES
+CLM000598,Direct Deposit,Medical,Indemnity,28697.09,YES
+CLM000487,Credit Card,Property Damage,Indemnity,43795.12,NO
+CLM000877,Check,Property Damage,Indemnity,3507.92,YES
+CLM000862,Direct Deposit,Medical,Indemnity,31522.14,YES
+CLM000249,Credit Card,Medical,Expense,29641.22,YES
+CLM000298,Check,Property Damage,Expense,40370.87,YES
+CLM000386,Direct Deposit,Vehicle Repair,Indemnity,26390.06,NO
+CLM000210,Check,Medical,Expense,1706.46,NO
+CLM000726,Direct Deposit,Medical,Indemnity,1867.84,NO
+CLM000573,Check,Medical,Expense,19986.63,NO
+CLM000148,Check,Property Damage,Indemnity,7673.14,NO
+CLM000482,Credit Card,Vehicle Repair,Expense,4562.67,NO
+CLM000658,Check,Property Damage,Expense,32573.65,YES
+CLM000149,Check,Property Damage,Indemnity,10585.76,NO
+CLM000304,Direct Deposit,Property Damage,Expense,14543.86,YES
+CLM000189,Direct Deposit,Vehicle Repair,Expense,5314.42,YES
+CLM000934,Check,Vehicle Repair,Expense,30661.62,NO
+CLM000573,Credit Card,Vehicle Repair,Expense,32346.6,YES
+CLM000972,Check,Vehicle Repair,Expense,45333.19,NO
+CLM000700,Credit Card,Vehicle Repair,Indemnity,26343.89,YES
+CLM000421,Credit Card,Medical,Indemnity,23023.52,NO
+CLM000331,Check,Vehicle Repair,Indemnity,11077.61,YES
+CLM000153,Direct Deposit,Vehicle Repair,Indemnity,37713.49,YES
+CLM000987,Check,Vehicle Repair,Expense,41884.69,NO
+CLM000735,Check,Medical,Expense,48051.63,YES
+CLM000943,Check,Vehicle Repair,Indemnity,13820.53,YES
+CLM000848,Credit Card,Medical,Expense,41738.74,NO
+CLM000920,Check,Medical,Indemnity,43474.29,NO
+CLM000587,Check,Property Damage,Expense,31639.37,NO
+CLM000617,Credit Card,Medical,Expense,29944.19,YES
+CLM000428,Credit Card,Vehicle Repair,Expense,39751.63,YES
+CLM000826,Direct Deposit,Property Damage,Expense,4846.24,NO
+CLM000414,Check,Medical,Expense,37886.61,NO
+CLM000902,Check,Property Damage,Indemnity,32212.45,YES
+CLM000032,Credit Card,Property Damage,Expense,33100.44,YES
+CLM000534,Direct Deposit,Medical,Expense,30446.14,YES
+CLM000736,Credit Card,Medical,Expense,44841.06,YES
+CLM000194,Credit Card,Property Damage,Indemnity,393.64,YES
+CLM000822,Check,Medical,Indemnity,9599.79,YES
+CLM000422,Credit Card,Medical,Expense,2017.31,YES
+CLM000257,Credit Card,Medical,Expense,18791.35,YES
+CLM000169,Credit Card,Vehicle Repair,Indemnity,35205.17,NO
+CLM000178,Check,Medical,Expense,39483.14,NO
+CLM000933,Credit Card,Property Damage,Indemnity,42134.49,NO
+CLM000688,Credit Card,Vehicle Repair,Expense,42195.44,YES
+CLM000565,Direct Deposit,Vehicle Repair,Indemnity,47566.81,YES
+CLM000264,Check,Vehicle Repair,Expense,47444.39,YES
+CLM000011,Direct Deposit,Medical,Indemnity,32379.04,NO
+CLM000804,Check,Vehicle Repair,Expense,6307.22,NO
+CLM000385,Direct Deposit,Medical,Expense,24456.39,YES
+CLM000037,Direct Deposit,Medical,Indemnity,11159.38,YES
+CLM000113,Direct Deposit,Property Damage,Indemnity,27977.99,NO
+CLM000778,Credit Card,Property Damage,Expense,12102.47,YES
+CLM000405,Check,Property Damage,Expense,43161.82,YES
+CLM000769,Credit Card,Medical,Indemnity,23222.56,NO
+CLM000961,Direct Deposit,Property Damage,Indemnity,37612.53,NO
+CLM000389,Credit Card,Medical,Indemnity,9616.76,NO
+CLM000879,Credit Card,Medical,Expense,29199.86,NO
+CLM000102,Check,Vehicle Repair,Indemnity,48053.6,NO
+CLM000411,Credit Card,Medical,Expense,10598.37,NO
+CLM000521,Direct Deposit,Medical,Indemnity,46380.44,YES
+CLM000051,Check,Vehicle Repair,Indemnity,49911.82,NO
+CLM000310,Direct Deposit,Property Damage,Indemnity,29875.01,YES
+CLM000686,Credit Card,Property Damage,Expense,14342.83,NO
+CLM000723,Direct Deposit,Property Damage,Expense,13291.95,YES
+CLM000687,Direct Deposit,Vehicle Repair,Expense,47262.85,NO
+CLM000146,Check,Property Damage,Expense,13283.42,NO
+CLM000742,Check,Medical,Expense,3510.82,NO
+CLM000933,Direct Deposit,Property Damage,Expense,21720.24,YES
+CLM000260,Credit Card,Property Damage,Expense,28738.16,NO
+CLM000591,Credit Card,Medical,Indemnity,46711.11,NO
+CLM000076,Check,Vehicle Repair,Indemnity,25662.8,NO
+CLM000377,Direct Deposit,Property Damage,Expense,34478.21,NO
+CLM000608,Credit Card,Medical,Indemnity,49181.18,YES
+CLM000028,Credit Card,Vehicle Repair,Indemnity,30561.85,YES
+CLM000440,Direct Deposit,Vehicle Repair,Expense,47634.52,YES
+CLM000556,Direct Deposit,Property Damage,Expense,33130.68,YES
+CLM000938,Credit Card,Property Damage,Expense,13533.13,YES
+CLM000982,Credit Card,Property Damage,Expense,37520.69,NO
+CLM000008,Check,Vehicle Repair,Indemnity,24012.54,YES
+CLM000978,Check,Vehicle Repair,Expense,13393.18,NO
+CLM000366,Credit Card,Vehicle Repair,Indemnity,49821.77,NO
+CLM000880,Direct Deposit,Vehicle Repair,Indemnity,6567.61,YES
+CLM000419,Credit Card,Property Damage,Indemnity,4815.97,YES
+CLM000608,Check,Medical,Expense,12038.71,YES
+CLM000602,Check,Vehicle Repair,Indemnity,17025.04,YES
+CLM000880,Check,Property Damage,Indemnity,13507.56,NO
+CLM000907,Check,Property Damage,Indemnity,32361.2,YES
+CLM000414,Credit Card,Property Damage,Expense,8206.08,NO
+CLM000923,Credit Card,Medical,Expense,32270.32,YES
+CLM000664,Check,Property Damage,Indemnity,42693.36,YES
+CLM000306,Credit Card,Property Damage,Expense,5788.7,NO
+CLM000444,Check,Property Damage,Expense,5817.22,NO
+CLM000943,Direct Deposit,Vehicle Repair,Indemnity,16726.37,NO
+CLM000083,Direct Deposit,Medical,Expense,30332.38,YES
+CLM000301,Check,Medical,Indemnity,2054.74,NO
+CLM000610,Credit Card,Medical,Expense,914.92,YES
+CLM000151,Check,Medical,Expense,49385.79,YES
+CLM000209,Check,Medical,Indemnity,1223.67,NO
+CLM000523,Credit Card,Property Damage,Expense,10275.56,NO
+CLM000682,Check,Medical,Indemnity,12262.55,NO
+CLM000028,Credit Card,Medical,Expense,710.35,YES
+CLM000175,Check,Medical,Indemnity,27018.3,NO
+CLM000479,Check,Medical,Indemnity,47273.9,NO
+CLM000497,Credit Card,Vehicle Repair,Indemnity,19233.15,YES
+CLM000475,Direct Deposit,Medical,Expense,39785.93,YES
+CLM000863,Credit Card,Property Damage,Expense,21353.69,NO
+CLM000287,Direct Deposit,Vehicle Repair,Indemnity,46277.6,YES
+CLM000864,Direct Deposit,Medical,Indemnity,14081.45,NO
+CLM000201,Check,Vehicle Repair,Expense,12709.85,NO
+CLM000810,Check,Vehicle Repair,Indemnity,17251.06,NO
+CLM000753,Check,Medical,Expense,47901.52,NO
+CLM000978,Direct Deposit,Medical,Indemnity,48331.95,NO
+CLM000860,Check,Property Damage,Indemnity,25829.05,YES
+CLM000710,Check,Medical,Expense,46066.02,NO
+CLM000574,Check,Medical,Indemnity,41639.12,NO
+CLM000648,Direct Deposit,Property Damage,Expense,25182.63,NO
+CLM000285,Check,Medical,Expense,35304.94,NO
+CLM000787,Check,Medical,Expense,41591.61,YES
+CLM000300,Check,Medical,Indemnity,26120.78,YES
+CLM000757,Check,Vehicle Repair,Expense,23714.66,NO
+CLM000379,Direct Deposit,Vehicle Repair,Expense,17993.62,NO
+CLM000658,Credit Card,Medical,Expense,22631.67,YES
+CLM000651,Check,Vehicle Repair,Expense,38549.21,NO
+CLM000239,Direct Deposit,Property Damage,Indemnity,7177.57,YES
+CLM000432,Direct Deposit,Vehicle Repair,Expense,15031.39,NO
+CLM000582,Credit Card,Medical,Expense,18565.72,NO
+CLM000979,Check,Vehicle Repair,Indemnity,42286.11,YES
+CLM000149,Credit Card,Medical,Expense,46386.3,YES
+CLM000866,Check,Property Damage,Expense,28276.78,NO
+CLM000974,Check,Vehicle Repair,Expense,29474.78,YES
+CLM000505,Direct Deposit,Vehicle Repair,Expense,42125.89,YES
+CLM000676,Direct Deposit,Medical,Expense,49514.66,YES
+CLM000420,Credit Card,Vehicle Repair,Indemnity,5591.68,YES
+CLM000529,Check,Medical,Expense,30426.14,YES
+CLM000885,Direct Deposit,Vehicle Repair,Indemnity,27839.48,NO
+CLM000954,Direct Deposit,Medical,Indemnity,45291.77,YES
+CLM000483,Credit Card,Medical,Expense,44995.1,NO
+CLM000207,Check,Property Damage,Indemnity,35384.8,NO
+CLM000048,Direct Deposit,Property Damage,Indemnity,13679.93,NO
+CLM000487,Direct Deposit,Medical,Indemnity,12009.26,NO
+CLM000692,Direct Deposit,Property Damage,Indemnity,13547.59,NO
+CLM000703,Check,Medical,Expense,47643.05,YES
+CLM000252,Credit Card,Vehicle Repair,Expense,6264.79,NO
+CLM000987,Credit Card,Medical,Expense,41591.1,NO
+CLM000001,Credit Card,Vehicle Repair,Expense,38515.07,NO
+CLM000088,Credit Card,Property Damage,Expense,8627.6,YES
+CLM000283,Check,Medical,Indemnity,13807.38,YES
+CLM000964,Check,Medical,Expense,12026.51,YES
+CLM000991,Check,Vehicle Repair,Indemnity,9223.81,YES
+CLM000418,Direct Deposit,Medical,Indemnity,48787.3,NO
+CLM000643,Direct Deposit,Vehicle Repair,Expense,6192.34,NO
+CLM000662,Check,Vehicle Repair,Indemnity,11655.7,YES
+CLM000393,Credit Card,Property Damage,Indemnity,33231.31,YES
+CLM000184,Direct Deposit,Medical,Indemnity,35965.31,NO
+CLM000732,Credit Card,Medical,Expense,12300.58,NO
+CLM000588,Check,Property Damage,Expense,14857.54,NO
+CLM000376,Credit Card,Property Damage,Indemnity,18160.4,NO
+CLM000636,Direct Deposit,Vehicle Repair,Expense,27224.51,YES
+CLM000560,Direct Deposit,Medical,Indemnity,37814.12,NO
+CLM000711,Check,Vehicle Repair,Expense,39206.53,NO
+CLM000557,Credit Card,Property Damage,Expense,46013.5,YES
+CLM000011,Direct Deposit,Property Damage,Indemnity,10370.22,NO
+CLM000255,Check,Medical,Expense,28705.3,NO
+CLM000118,Check,Vehicle Repair,Indemnity,38012.82,NO
+CLM000533,Credit Card,Vehicle Repair,Expense,45929.29,YES
+CLM000406,Check,Vehicle Repair,Indemnity,14382.77,NO
+CLM000749,Check,Medical,Expense,28425.53,YES
+CLM000022,Credit Card,Property Damage,Expense,6706.11,NO
+CLM000894,Check,Vehicle Repair,Expense,22812.0,NO
+CLM000348,Credit Card,Vehicle Repair,Indemnity,730.02,YES
+CLM000621,Direct Deposit,Vehicle Repair,Expense,49126.7,YES
+CLM000690,Credit Card,Property Damage,Indemnity,13658.07,YES
+CLM000658,Check,Medical,Indemnity,29563.39,NO
+CLM000892,Credit Card,Property Damage,Indemnity,17300.97,NO
+CLM000584,Check,Property Damage,Expense,6927.57,YES
+CLM000339,Credit Card,Property Damage,Indemnity,24299.18,NO
+CLM000864,Direct Deposit,Medical,Expense,20858.91,NO
+CLM000233,Credit Card,Medical,Indemnity,8757.3,NO
+CLM000937,Check,Medical,Expense,7830.73,YES
+CLM000153,Credit Card,Medical,Indemnity,29789.65,NO
+CLM000281,Credit Card,Property Damage,Indemnity,29752.81,YES
+CLM000464,Check,Medical,Indemnity,25977.31,YES
+CLM000378,Credit Card,Property Damage,Expense,24127.34,YES
+CLM000211,Credit Card,Property Damage,Expense,20234.38,NO
+CLM000017,Check,Vehicle Repair,Indemnity,1106.26,YES
+CLM000508,Credit Card,Medical,Indemnity,16911.93,YES
+CLM000526,Direct Deposit,Medical,Expense,25983.48,YES
+CLM000414,Direct Deposit,Medical,Expense,49047.77,NO
+CLM000926,Credit Card,Vehicle Repair,Indemnity,17215.01,YES
+CLM000556,Direct Deposit,Property Damage,Expense,13745.12,NO
+CLM000143,Direct Deposit,Property Damage,Expense,25261.71,NO
+CLM000418,Credit Card,Property Damage,Expense,20571.43,NO
+CLM000259,Direct Deposit,Medical,Expense,6668.85,YES
+CLM000686,Credit Card,Vehicle Repair,Indemnity,13427.46,NO
+CLM000242,Direct Deposit,Medical,Expense,4962.56,YES
+CLM000591,Credit Card,Medical,Expense,28023.85,YES
+CLM000604,Check,Medical,Expense,19976.88,NO
+CLM000803,Check,Vehicle Repair,Indemnity,26467.14,YES
+CLM000263,Direct Deposit,Vehicle Repair,Expense,4950.21,NO
+CLM000066,Credit Card,Medical,Indemnity,1261.27,NO
+CLM000967,Credit Card,Vehicle Repair,Expense,49509.34,YES
+CLM000004,Check,Medical,Indemnity,10130.0,NO
+CLM000720,Credit Card,Medical,Indemnity,7788.84,NO
+CLM000827,Direct Deposit,Vehicle Repair,Indemnity,32199.1,NO
+CLM000710,Direct Deposit,Medical,Expense,1948.99,NO
+CLM000518,Check,Medical,Expense,1263.28,YES
+CLM000838,Credit Card,Property Damage,Indemnity,5897.62,NO
+CLM000945,Direct Deposit,Medical,Indemnity,45194.45,YES
+CLM000234,Check,Vehicle Repair,Indemnity,25768.72,YES
+CLM000207,Direct Deposit,Property Damage,Expense,3181.99,YES
+CLM000534,Credit Card,Property Damage,Expense,21654.69,YES
+CLM000483,Credit Card,Medical,Indemnity,39986.11,YES
+CLM000008,Check,Property Damage,Expense,25005.51,NO
+CLM000380,Check,Medical,Indemnity,39093.2,NO
+CLM000457,Check,Property Damage,Expense,13575.33,YES
+CLM000176,Direct Deposit,Property Damage,Expense,46160.76,YES
+CLM000085,Check,Medical,Expense,12211.42,NO
+CLM000432,Check,Property Damage,Indemnity,34768.08,YES
+CLM000633,Direct Deposit,Vehicle Repair,Indemnity,4251.66,NO
+CLM000323,Check,Property Damage,Indemnity,18558.49,NO
+CLM000647,Direct Deposit,Property Damage,Expense,48694.8,NO
+CLM000105,Check,Medical,Indemnity,13276.4,YES
+CLM000605,Credit Card,Medical,Expense,39193.38,YES
+CLM000718,Check,Vehicle Repair,Expense,45643.25,YES
+CLM000088,Check,Property Damage,Indemnity,41371.77,NO
+CLM000340,Credit Card,Medical,Indemnity,30855.06,NO
+CLM000690,Direct Deposit,Medical,Indemnity,10829.74,NO
+CLM000196,Credit Card,Medical,Indemnity,43898.3,YES
+CLM000718,Direct Deposit,Property Damage,Expense,2999.15,YES
+CLM000013,Credit Card,Property Damage,Indemnity,32009.45,NO
+CLM000304,Direct Deposit,Vehicle Repair,Indemnity,3514.03,NO
+CLM000836,Check,Medical,Indemnity,2753.01,YES
+CLM000817,Direct Deposit,Medical,Expense,28785.03,YES
+CLM000053,Direct Deposit,Vehicle Repair,Expense,31624.0,NO
+CLM000375,Direct Deposit,Property Damage,Expense,15654.59,YES
+CLM000252,Check,Medical,Indemnity,4119.99,YES
+CLM000348,Credit Card,Vehicle Repair,Indemnity,44223.53,YES
+CLM000714,Credit Card,Vehicle Repair,Expense,18575.51,YES
+CLM000049,Check,Medical,Indemnity,20597.46,NO
+CLM000461,Credit Card,Property Damage,Expense,15607.87,NO
+CLM000179,Check,Vehicle Repair,Expense,46172.25,YES
+CLM000957,Direct Deposit,Medical,Indemnity,14224.79,YES
+CLM000432,Direct Deposit,Property Damage,Expense,46689.13,NO
+CLM000160,Direct Deposit,Vehicle Repair,Indemnity,12793.62,YES
+CLM000228,Check,Medical,Indemnity,46602.13,YES
+CLM000435,Direct Deposit,Vehicle Repair,Expense,14062.01,YES
+CLM000804,Credit Card,Vehicle Repair,Indemnity,47944.59,NO
+CLM000287,Direct Deposit,Medical,Indemnity,41187.48,YES
+CLM000052,Check,Vehicle Repair,Expense,2549.96,YES
+CLM000201,Check,Vehicle Repair,Expense,4073.48,NO
+CLM000193,Credit Card,Medical,Expense,48834.17,YES
+CLM000342,Direct Deposit,Property Damage,Indemnity,44055.43,NO
+CLM000106,Credit Card,Vehicle Repair,Indemnity,43134.93,YES
+CLM000969,Credit Card,Vehicle Repair,Expense,35912.01,YES
+CLM000461,Check,Vehicle Repair,Indemnity,5578.31,NO
+CLM000271,Credit Card,Medical,Indemnity,18507.81,YES
+CLM000985,Check,Property Damage,Indemnity,8094.77,YES
+CLM000063,Credit Card,Property Damage,Indemnity,44916.52,YES
+CLM000354,Check,Property Damage,Expense,30312.97,NO
+CLM000932,Credit Card,Property Damage,Expense,34982.6,NO
+CLM000772,Check,Property Damage,Expense,20105.39,YES
+CLM000884,Check,Property Damage,Expense,14088.65,YES
+CLM000414,Check,Vehicle Repair,Indemnity,45011.56,NO
+CLM000178,Direct Deposit,Property Damage,Indemnity,38071.8,NO
+CLM000694,Credit Card,Vehicle Repair,Indemnity,18432.92,NO
+CLM000095,Credit Card,Vehicle Repair,Expense,1338.57,YES
+CLM000045,Direct Deposit,Vehicle Repair,Expense,1355.33,NO
+CLM000480,Direct Deposit,Property Damage,Expense,4604.41,YES
+CLM000690,Check,Property Damage,Indemnity,46822.28,YES
+CLM000338,Credit Card,Medical,Indemnity,41523.43,YES
+CLM000702,Credit Card,Medical,Expense,23619.87,YES
+CLM000575,Direct Deposit,Medical,Expense,26560.86,NO
+CLM000970,Credit Card,Property Damage,Indemnity,33205.09,NO
+CLM000734,Direct Deposit,Property Damage,Expense,18955.38,NO
+CLM000103,Check,Medical,Indemnity,25619.69,YES
+CLM000329,Direct Deposit,Property Damage,Expense,23539.28,NO
+CLM000129,Direct Deposit,Property Damage,Expense,31017.79,YES
+CLM000677,Credit Card,Medical,Expense,29685.4,NO
+CLM000933,Direct Deposit,Medical,Expense,14927.75,YES
+CLM000480,Check,Medical,Indemnity,42641.73,YES
+CLM000772,Direct Deposit,Vehicle Repair,Indemnity,23451.56,NO
+CLM000678,Check,Vehicle Repair,Indemnity,34381.2,NO
+CLM000465,Credit Card,Medical,Indemnity,14801.15,NO
+CLM000765,Credit Card,Property Damage,Indemnity,23663.26,NO
+CLM000871,Check,Vehicle Repair,Expense,45597.5,NO
+CLM000863,Direct Deposit,Property Damage,Expense,22502.19,NO
+CLM000571,Credit Card,Medical,Indemnity,11007.15,NO
+CLM000523,Check,Medical,Expense,44536.24,YES
+CLM000175,Credit Card,Medical,Indemnity,46492.32,YES
+CLM000987,Direct Deposit,Property Damage,Expense,35722.42,NO
+CLM000197,Check,Medical,Indemnity,23415.87,YES
+CLM000424,Direct Deposit,Property Damage,Indemnity,49032.73,NO
+CLM000584,Credit Card,Property Damage,Indemnity,37531.52,NO
+CLM000192,Check,Medical,Indemnity,32611.67,NO
+CLM000995,Direct Deposit,Medical,Expense,14029.62,NO
+CLM000629,Credit Card,Property Damage,Expense,36580.96,YES
+CLM000357,Direct Deposit,Vehicle Repair,Expense,32517.95,YES
+CLM000620,Check,Medical,Indemnity,2529.56,YES
+CLM000078,Direct Deposit,Property Damage,Expense,3448.45,NO
+CLM000065,Direct Deposit,Medical,Indemnity,19317.35,NO
+CLM000028,Direct Deposit,Vehicle Repair,Expense,47968.94,NO
+CLM000835,Direct Deposit,Property Damage,Indemnity,135.67,YES
+CLM000898,Check,Property Damage,Indemnity,32628.2,NO
+CLM000835,Credit Card,Property Damage,Expense,45659.43,YES
+CLM000608,Check,Medical,Expense,31008.42,YES
+CLM000161,Check,Property Damage,Expense,49311.94,YES
+CLM000472,Credit Card,Property Damage,Expense,33576.25,NO
+CLM000858,Check,Property Damage,Expense,45607.84,YES
+CLM000466,Credit Card,Vehicle Repair,Indemnity,45651.33,YES
+CLM000805,Credit Card,Property Damage,Indemnity,3208.08,YES
+CLM000419,Direct Deposit,Property Damage,Indemnity,28780.35,YES
+CLM000387,Check,Medical,Indemnity,29387.47,NO
+CLM000124,Credit Card,Property Damage,Indemnity,2205.74,YES
+CLM000420,Credit Card,Vehicle Repair,Indemnity,31363.34,NO
+CLM000261,Direct Deposit,Property Damage,Expense,9575.98,NO
+CLM000879,Check,Property Damage,Expense,39928.56,NO
+CLM000378,Credit Card,Medical,Indemnity,6474.05,YES
+CLM000134,Check,Medical,Indemnity,39426.25,YES
+CLM000299,Credit Card,Medical,Indemnity,20519.78,NO
+CLM000331,Direct Deposit,Property Damage,Expense,4094.02,YES
+CLM000717,Check,Property Damage,Expense,18118.65,NO
+CLM000716,Check,Property Damage,Indemnity,47717.44,YES
+CLM000110,Check,Vehicle Repair,Indemnity,39850.08,NO
+CLM000768,Credit Card,Medical,Indemnity,31501.58,NO
+CLM000499,Check,Property Damage,Indemnity,49100.14,NO
+CLM000791,Direct Deposit,Medical,Expense,20933.31,YES
+CLM000784,Direct Deposit,Vehicle Repair,Indemnity,21236.91,YES
+CLM000083,Direct Deposit,Vehicle Repair,Expense,32554.19,YES
+CLM000992,Check,Medical,Indemnity,34166.73,NO
+CLM000082,Check,Vehicle Repair,Indemnity,20822.12,YES
+CLM000238,Credit Card,Vehicle Repair,Indemnity,44097.1,YES
+CLM000243,Check,Property Damage,Expense,9394.59,YES
+CLM000284,Credit Card,Medical,Indemnity,37579.7,YES
+CLM000736,Check,Vehicle Repair,Expense,39902.74,YES
+CLM000277,Direct Deposit,Property Damage,Expense,43675.55,YES
+CLM000194,Credit Card,Property Damage,Indemnity,17761.26,NO
+CLM000650,Credit Card,Medical,Expense,19951.67,NO
+CLM000408,Check,Medical,Indemnity,28949.27,NO
+CLM000562,Credit Card,Medical,Expense,14559.71,YES
+CLM000884,Direct Deposit,Property Damage,Indemnity,47814.27,NO
+CLM000528,Direct Deposit,Property Damage,Expense,7660.46,NO
+CLM000686,Credit Card,Medical,Expense,37195.53,YES
+CLM000001,Check,Property Damage,Indemnity,37161.27,NO
+CLM000340,Check,Vehicle Repair,Expense,1248.34,YES
+CLM000957,Check,Property Damage,Expense,25968.89,YES
+CLM000517,Check,Medical,Expense,1853.84,YES
+CLM000944,Direct Deposit,Vehicle Repair,Indemnity,2058.82,NO
+CLM000690,Credit Card,Property Damage,Indemnity,46837.69,NO
+CLM000550,Check,Property Damage,Indemnity,39073.18,NO
+CLM000857,Direct Deposit,Vehicle Repair,Expense,39657.34,YES
+CLM000018,Direct Deposit,Medical,Indemnity,16304.46,NO
+CLM000234,Credit Card,Property Damage,Indemnity,25628.27,NO
+CLM000764,Direct Deposit,Vehicle Repair,Indemnity,11519.34,YES
+CLM000570,Direct Deposit,Property Damage,Expense,36648.55,YES
+CLM000622,Check,Medical,Indemnity,11694.87,NO
+CLM000574,Direct Deposit,Vehicle Repair,Expense,39510.94,NO
+CLM000180,Credit Card,Medical,Expense,5607.92,NO
+CLM000938,Check,Property Damage,Expense,19262.12,NO
+CLM000938,Direct Deposit,Property Damage,Expense,22966.13,YES
+CLM000825,Credit Card,Vehicle Repair,Expense,15246.47,YES
+CLM000679,Direct Deposit,Vehicle Repair,Indemnity,21027.03,NO
+CLM000532,Credit Card,Property Damage,Expense,10092.89,NO
+CLM000866,Check,Vehicle Repair,Expense,27193.16,NO
+CLM000933,Direct Deposit,Property Damage,Expense,32935.9,NO
+CLM000389,Direct Deposit,Property Damage,Indemnity,385.02,YES
+CLM000699,Check,Medical,Indemnity,18978.13,YES
+CLM000640,Check,Property Damage,Expense,35862.72,NO
+CLM000845,Credit Card,Vehicle Repair,Expense,8612.27,NO
+CLM000596,Credit Card,Medical,Expense,7177.75,NO
+CLM000033,Direct Deposit,Medical,Indemnity,31543.23,NO
+CLM000882,Direct Deposit,Vehicle Repair,Indemnity,28482.84,YES
+CLM000900,Credit Card,Medical,Indemnity,10988.18,YES
+CLM000148,Credit Card,Property Damage,Indemnity,20218.94,NO
+CLM000103,Direct Deposit,Property Damage,Indemnity,9595.63,YES
+CLM000525,Direct Deposit,Vehicle Repair,Indemnity,47286.53,YES
+CLM000472,Check,Property Damage,Indemnity,31162.68,YES
+CLM000615,Check,Property Damage,Indemnity,21891.74,NO
+CLM000719,Credit Card,Property Damage,Expense,1229.44,YES
+CLM000076,Credit Card,Medical,Indemnity,5462.59,YES
+CLM000938,Check,Property Damage,Expense,7111.03,NO
+CLM000892,Credit Card,Vehicle Repair,Expense,525.93,YES
+CLM000652,Direct Deposit,Medical,Indemnity,41777.8,NO
+CLM000605,Direct Deposit,Vehicle Repair,Expense,6009.93,NO
+CLM000214,Check,Vehicle Repair,Indemnity,25237.69,YES
+CLM000742,Check,Medical,Expense,11408.06,YES
+CLM000339,Check,Property Damage,Expense,2599.6,YES
+CLM000845,Credit Card,Vehicle Repair,Indemnity,17394.01,YES
+CLM000484,Check,Property Damage,Expense,32591.69,YES
+CLM000286,Direct Deposit,Vehicle Repair,Indemnity,49037.68,NO
+CLM000570,Credit Card,Vehicle Repair,Indemnity,14076.07,NO
+CLM000639,Check,Vehicle Repair,Expense,24732.89,NO
+CLM000074,Direct Deposit,Property Damage,Indemnity,25439.36,NO
+CLM000789,Credit Card,Vehicle Repair,Indemnity,2936.18,YES
+CLM000144,Credit Card,Medical,Expense,49087.41,NO
+CLM000718,Check,Vehicle Repair,Indemnity,40681.24,NO
+CLM000021,Check,Medical,Indemnity,35481.68,NO
+CLM000942,Credit Card,Medical,Indemnity,25025.25,NO
+CLM000154,Credit Card,Vehicle Repair,Indemnity,1428.79,NO
+CLM000277,Credit Card,Property Damage,Expense,49373.88,NO
+CLM000656,Direct Deposit,Vehicle Repair,Expense,2496.39,NO
+CLM000145,Credit Card,Vehicle Repair,Expense,45787.22,NO
+CLM000649,Check,Property Damage,Expense,17408.26,YES
+CLM000083,Check,Property Damage,Indemnity,1278.61,YES
+CLM000777,Check,Medical,Indemnity,18821.05,YES
+CLM000634,Credit Card,Medical,Expense,8619.37,YES
+CLM000038,Direct Deposit,Vehicle Repair,Expense,38360.83,YES
+CLM000946,Direct Deposit,Property Damage,Indemnity,29671.85,YES
+CLM000137,Credit Card,Medical,Expense,2553.31,NO
+CLM000224,Credit Card,Property Damage,Indemnity,44719.6,NO
+CLM000543,Check,Property Damage,Indemnity,31719.43,NO
+CLM000689,Credit Card,Property Damage,Expense,35196.38,NO
+CLM000509,Credit Card,Vehicle Repair,Indemnity,14391.49,YES
+CLM000912,Credit Card,Medical,Indemnity,20588.42,YES
+CLM000225,Credit Card,Property Damage,Indemnity,43458.91,NO
+CLM000916,Check,Medical,Indemnity,32882.62,YES
+CLM000862,Credit Card,Medical,Indemnity,22834.76,NO
+CLM000015,Direct Deposit,Medical,Expense,21293.32,NO
+CLM000766,Check,Vehicle Repair,Indemnity,42194.43,NO
+CLM000428,Credit Card,Medical,Expense,37377.35,NO
+CLM000567,Check,Vehicle Repair,Expense,37119.71,NO
+CLM000059,Check,Property Damage,Indemnity,33652.45,NO
+CLM000535,Check,Vehicle Repair,Expense,19879.09,YES
+CLM000579,Credit Card,Property Damage,Indemnity,40445.05,NO
+CLM000112,Direct Deposit,Vehicle Repair,Indemnity,42733.15,NO
+CLM000393,Credit Card,Property Damage,Indemnity,13824.12,NO
+CLM000882,Check,Medical,Expense,21019.18,NO
+CLM000658,Credit Card,Vehicle Repair,Expense,5091.61,YES
+CLM000585,Check,Vehicle Repair,Expense,1094.96,YES
+CLM000305,Credit Card,Vehicle Repair,Indemnity,27351.96,YES
+CLM000745,Check,Medical,Indemnity,15524.97,NO
+CLM000357,Credit Card,Vehicle Repair,Indemnity,45551.43,YES
+CLM000736,Check,Property Damage,Expense,1844.98,NO
+CLM000171,Check,Property Damage,Indemnity,43556.88,NO
+CLM000156,Check,Vehicle Repair,Indemnity,15214.39,NO
+CLM000947,Credit Card,Property Damage,Expense,47698.04,NO
+CLM000731,Direct Deposit,Property Damage,Indemnity,40793.89,NO
+CLM000234,Direct Deposit,Vehicle Repair,Expense,16746.1,NO
+CLM000762,Direct Deposit,Medical,Expense,41842.76,NO
+CLM000353,Direct Deposit,Property Damage,Indemnity,27211.69,YES
+CLM000749,Check,Property Damage,Expense,39858.69,NO
+CLM000625,Direct Deposit,Property Damage,Expense,13072.35,NO
+CLM000975,Check,Property Damage,Expense,42078.31,NO
+CLM000116,Check,Property Damage,Indemnity,40640.91,NO
+CLM000302,Direct Deposit,Property Damage,Expense,26396.99,NO
+CLM000975,Credit Card,Property Damage,Expense,21885.95,NO
+CLM000465,Check,Property Damage,Expense,20447.75,YES
+CLM000067,Credit Card,Property Damage,Expense,12551.25,YES
+CLM000866,Check,Property Damage,Indemnity,22877.01,YES
+CLM000402,Check,Property Damage,Expense,1087.12,NO
+CLM000665,Credit Card,Medical,Indemnity,24178.46,YES
+CLM000061,Check,Vehicle Repair,Expense,9563.72,NO
+CLM000798,Direct Deposit,Medical,Expense,38324.37,NO
+CLM000008,Check,Medical,Expense,34489.39,YES
+CLM000543,Direct Deposit,Property Damage,Indemnity,39802.07,YES
+CLM000731,Check,Property Damage,Indemnity,48131.68,YES
+CLM000722,Direct Deposit,Vehicle Repair,Expense,45814.66,YES
+CLM000497,Check,Property Damage,Indemnity,9636.35,YES
+CLM000427,Credit Card,Medical,Indemnity,49751.43,NO
+CLM000529,Credit Card,Vehicle Repair,Indemnity,46837.99,NO
+CLM000690,Check,Property Damage,Expense,11868.59,YES
+CLM000945,Credit Card,Vehicle Repair,Indemnity,48976.68,NO
+CLM000933,Direct Deposit,Property Damage,Expense,37563.52,NO
+CLM000030,Check,Property Damage,Expense,645.31,NO
+CLM000953,Check,Medical,Indemnity,1050.08,YES
+CLM000341,Direct Deposit,Medical,Indemnity,18985.64,YES
+CLM000662,Direct Deposit,Medical,Indemnity,44501.56,YES
+CLM000851,Direct Deposit,Medical,Expense,27652.13,YES
+CLM000413,Credit Card,Vehicle Repair,Indemnity,35836.91,YES
+CLM000217,Check,Medical,Expense,35508.72,YES
+CLM000482,Check,Property Damage,Indemnity,21932.86,YES
+CLM000467,Direct Deposit,Property Damage,Indemnity,24177.29,YES
+CLM000268,Check,Vehicle Repair,Indemnity,41613.64,NO
+CLM000160,Credit Card,Vehicle Repair,Indemnity,6108.27,NO
+CLM000597,Direct Deposit,Property Damage,Indemnity,37767.43,NO
+CLM000700,Direct Deposit,Medical,Indemnity,41131.26,NO
+CLM000650,Direct Deposit,Medical,Expense,20634.71,NO
+CLM000038,Check,Property Damage,Expense,6269.92,NO
+CLM000808,Check,Property Damage,Indemnity,1567.41,NO
+CLM000496,Credit Card,Property Damage,Expense,19439.9,YES
+CLM000713,Check,Property Damage,Indemnity,19898.06,NO
+CLM000210,Credit Card,Property Damage,Indemnity,7711.2,YES
+CLM000175,Credit Card,Medical,Indemnity,19259.23,NO
+CLM000200,Credit Card,Vehicle Repair,Expense,8513.09,NO
+CLM000643,Credit Card,Property Damage,Expense,13543.84,YES
+CLM000216,Direct Deposit,Property Damage,Expense,1931.43,NO
+CLM000113,Check,Medical,Expense,15348.97,NO
+CLM000922,Direct Deposit,Property Damage,Expense,45511.03,YES
+CLM000477,Check,Vehicle Repair,Indemnity,16237.6,NO
+CLM000380,Direct Deposit,Property Damage,Expense,39725.19,NO
+CLM000018,Credit Card,Property Damage,Indemnity,5213.11,YES
+CLM000613,Credit Card,Property Damage,Indemnity,19178.47,YES
+CLM000504,Credit Card,Medical,Expense,34669.55,YES
+CLM000755,Credit Card,Medical,Indemnity,20285.03,NO
+CLM000189,Credit Card,Property Damage,Expense,42037.48,YES
+CLM000279,Direct Deposit,Property Damage,Indemnity,35536.75,NO
+CLM000382,Credit Card,Medical,Expense,40514.9,YES
+CLM000537,Credit Card,Vehicle Repair,Expense,32143.91,YES
+CLM000993,Credit Card,Vehicle Repair,Expense,19947.59,NO
+CLM000984,Credit Card,Vehicle Repair,Indemnity,40941.61,YES
+CLM000562,Credit Card,Property Damage,Indemnity,13648.72,YES
+CLM000797,Credit Card,Vehicle Repair,Indemnity,7198.41,NO
+CLM000850,Direct Deposit,Medical,Expense,18503.81,NO
+CLM000879,Check,Property Damage,Indemnity,30412.98,NO
+CLM000230,Check,Property Damage,Indemnity,11532.24,YES
+CLM000346,Credit Card,Medical,Indemnity,46446.64,YES
+CLM000378,Credit Card,Medical,Expense,37757.99,YES
+CLM000103,Credit Card,Medical,Indemnity,6398.55,NO
+CLM000690,Credit Card,Property Damage,Indemnity,4429.5,NO
+CLM000972,Credit Card,Vehicle Repair,Expense,2665.13,NO
+CLM000222,Check,Property Damage,Indemnity,38515.95,NO
+CLM000368,Check,Property Damage,Indemnity,30886.68,NO
+CLM000486,Direct Deposit,Property Damage,Expense,41393.11,NO
+CLM000292,Credit Card,Vehicle Repair,Expense,13559.26,NO
+CLM000364,Credit Card,Vehicle Repair,Expense,20445.21,YES
+CLM000966,Direct Deposit,Property Damage,Expense,33585.85,NO
+CLM000819,Check,Vehicle Repair,Indemnity,18153.52,YES
+CLM000232,Credit Card,Vehicle Repair,Expense,23279.71,YES
+CLM000763,Check,Property Damage,Expense,44408.11,NO
+CLM000268,Credit Card,Vehicle Repair,Expense,37304.59,YES
+CLM000801,Credit Card,Property Damage,Expense,7029.86,NO
+CLM000222,Credit Card,Vehicle Repair,Expense,34242.37,NO
+CLM000295,Direct Deposit,Medical,Indemnity,44656.82,YES
+CLM000681,Credit Card,Vehicle Repair,Indemnity,7717.7,YES
+CLM000494,Credit Card,Vehicle Repair,Expense,13223.03,YES
+CLM000077,Check,Medical,Indemnity,19792.5,NO
+CLM000312,Check,Medical,Expense,41347.38,YES
+CLM000817,Check,Property Damage,Indemnity,12376.35,YES
+CLM000351,Check,Property Damage,Indemnity,1755.67,NO
+CLM000550,Check,Vehicle Repair,Indemnity,48091.27,YES
+CLM000243,Credit Card,Property Damage,Indemnity,45078.26,NO
+CLM000697,Direct Deposit,Vehicle Repair,Expense,33067.52,YES
+CLM000559,Check,Medical,Indemnity,3528.49,NO
+CLM000990,Check,Vehicle Repair,Indemnity,29724.54,YES
+CLM000456,Credit Card,Medical,Expense,36795.77,YES
+CLM000315,Credit Card,Vehicle Repair,Expense,32091.84,YES
+CLM000271,Credit Card,Property Damage,Indemnity,36722.84,NO
+CLM000713,Direct Deposit,Property Damage,Expense,38813.6,NO
+CLM000070,Direct Deposit,Property Damage,Indemnity,11631.27,YES
+CLM000682,Check,Medical,Indemnity,13938.83,NO
+CLM000943,Direct Deposit,Vehicle Repair,Expense,49668.51,NO
+CLM000927,Credit Card,Property Damage,Expense,11105.13,NO
+CLM000785,Credit Card,Medical,Indemnity,37758.65,NO
+CLM000622,Check,Medical,Indemnity,48690.32,YES
+CLM000756,Check,Medical,Indemnity,31433.54,NO
+CLM000371,Check,Vehicle Repair,Expense,9475.26,YES
+CLM000707,Direct Deposit,Vehicle Repair,Expense,28452.47,YES
+CLM000865,Check,Medical,Expense,32582.74,NO
+CLM000088,Credit Card,Medical,Expense,28553.33,YES
+CLM000411,Check,Medical,Expense,31561.28,YES
+CLM000392,Credit Card,Medical,Indemnity,39143.86,YES
+CLM000020,Credit Card,Vehicle Repair,Indemnity,9615.34,NO
+CLM000925,Credit Card,Vehicle Repair,Indemnity,22313.64,NO
+CLM000968,Direct Deposit,Vehicle Repair,Indemnity,16204.31,YES
+CLM000178,Credit Card,Vehicle Repair,Indemnity,46095.11,NO
+CLM000302,Direct Deposit,Medical,Indemnity,34178.5,NO
+CLM000861,Check,Vehicle Repair,Indemnity,27849.91,NO
+CLM000577,Direct Deposit,Medical,Indemnity,27601.27,YES
+CLM000988,Direct Deposit,Property Damage,Indemnity,11595.39,NO
+CLM000877,Check,Vehicle Repair,Expense,29029.18,NO
+CLM000141,Direct Deposit,Vehicle Repair,Expense,20628.95,NO
+CLM000869,Direct Deposit,Medical,Indemnity,44143.87,YES
+CLM000099,Direct Deposit,Vehicle Repair,Indemnity,4508.83,YES
+CLM000964,Direct Deposit,Property Damage,Indemnity,20914.94,NO
+CLM000973,Credit Card,Vehicle Repair,Indemnity,31856.41,NO
+CLM000011,Credit Card,Property Damage,Indemnity,40953.37,NO
+CLM000791,Direct Deposit,Vehicle Repair,Indemnity,49269.89,YES
+CLM000166,Direct Deposit,Medical,Indemnity,38228.7,NO
+CLM000335,Credit Card,Property Damage,Expense,34022.72,YES
+CLM000725,Direct Deposit,Medical,Indemnity,24299.34,YES
+CLM000639,Credit Card,Property Damage,Expense,30991.45,NO
+CLM000857,Check,Medical,Expense,23418.11,NO
+CLM000131,Check,Medical,Expense,18770.53,YES
+CLM000323,Check,Property Damage,Indemnity,14609.23,NO
+CLM000704,Direct Deposit,Property Damage,Indemnity,17940.12,YES
+CLM000063,Check,Property Damage,Indemnity,21380.45,NO
+CLM000331,Check,Property Damage,Expense,15463.62,YES
+CLM000111,Credit Card,Medical,Expense,14107.54,YES
+CLM000761,Direct Deposit,Property Damage,Indemnity,18319.79,YES
+CLM000610,Check,Medical,Indemnity,18022.4,NO
+CLM000949,Credit Card,Medical,Indemnity,22575.2,YES
+CLM000073,Credit Card,Vehicle Repair,Indemnity,32708.64,NO
+CLM000977,Direct Deposit,Medical,Expense,35856.39,NO
+CLM000585,Credit Card,Property Damage,Indemnity,26462.65,NO
+CLM000673,Direct Deposit,Property Damage,Expense,10665.9,NO
+CLM000463,Direct Deposit,Medical,Indemnity,14274.36,NO
+CLM000457,Direct Deposit,Vehicle Repair,Expense,5790.33,NO
+CLM000413,Direct Deposit,Vehicle Repair,Indemnity,18067.48,YES
+CLM000909,Check,Medical,Indemnity,7078.64,NO
+CLM000411,Direct Deposit,Vehicle Repair,Indemnity,9897.8,YES
+CLM000464,Check,Medical,Expense,27258.42,NO
+CLM000501,Check,Property Damage,Indemnity,23608.07,YES
+CLM000227,Credit Card,Medical,Expense,17974.79,YES
+CLM000390,Direct Deposit,Medical,Indemnity,9911.22,YES
+CLM000674,Check,Vehicle Repair,Indemnity,23603.54,YES
+CLM000987,Credit Card,Property Damage,Expense,33614.86,YES
+CLM000223,Direct Deposit,Property Damage,Expense,34574.31,YES
+CLM000773,Check,Medical,Indemnity,2988.26,YES
+CLM000525,Direct Deposit,Medical,Indemnity,39846.08,NO
+CLM000432,Direct Deposit,Medical,Expense,45515.27,NO
+CLM000499,Check,Property Damage,Expense,32281.55,NO
+CLM000748,Direct Deposit,Vehicle Repair,Expense,41807.12,NO
+CLM000308,Check,Vehicle Repair,Expense,17055.0,NO
+CLM000691,Credit Card,Medical,Indemnity,1257.99,YES
+CLM000534,Credit Card,Vehicle Repair,Indemnity,47965.16,YES
+CLM000026,Direct Deposit,Property Damage,Indemnity,17468.44,YES
+CLM000379,Credit Card,Property Damage,Expense,34092.19,YES
+CLM000592,Direct Deposit,Property Damage,Indemnity,18165.55,YES
+CLM000011,Direct Deposit,Vehicle Repair,Expense,21675.36,YES
+CLM000779,Check,Medical,Indemnity,16972.34,NO
+CLM000616,Credit Card,Vehicle Repair,Expense,16880.04,NO
+CLM000889,Credit Card,Medical,Indemnity,36450.41,YES
+CLM000292,Credit Card,Property Damage,Indemnity,36064.29,NO
+CLM000245,Check,Medical,Expense,27683.7,YES
+CLM000378,Credit Card,Vehicle Repair,Indemnity,17764.38,YES
+CLM000406,Credit Card,Vehicle Repair,Indemnity,26037.2,YES
+CLM000493,Direct Deposit,Medical,Expense,42530.11,NO
+CLM000059,Check,Medical,Indemnity,19640.85,YES
+CLM000331,Credit Card,Property Damage,Expense,10276.95,YES
+CLM000358,Check,Property Damage,Indemnity,37657.36,YES
+CLM000413,Credit Card,Vehicle Repair,Indemnity,45179.29,YES
+CLM000664,Check,Medical,Indemnity,2526.13,YES
+CLM000653,Check,Property Damage,Expense,30141.94,NO
+CLM000854,Direct Deposit,Vehicle Repair,Indemnity,43031.23,NO
+CLM000923,Check,Vehicle Repair,Expense,29532.75,YES
+CLM000296,Credit Card,Property Damage,Expense,49198.35,NO
+CLM000775,Credit Card,Property Damage,Indemnity,199.19,YES
+CLM000872,Check,Vehicle Repair,Indemnity,21235.86,YES
+CLM000335,Check,Medical,Expense,17474.8,NO
+CLM000048,Direct Deposit,Vehicle Repair,Indemnity,40901.41,NO
+CLM000634,Direct Deposit,Property Damage,Expense,42156.82,YES
+CLM000384,Credit Card,Property Damage,Expense,28856.41,YES
+CLM000612,Check,Property Damage,Expense,42126.04,NO
+CLM000544,Direct Deposit,Vehicle Repair,Indemnity,15597.1,NO
+CLM000051,Check,Property Damage,Indemnity,31169.33,NO
+CLM000095,Check,Vehicle Repair,Expense,13521.66,YES
+CLM000778,Direct Deposit,Property Damage,Indemnity,5468.7,YES
+CLM000536,Credit Card,Property Damage,Indemnity,23865.28,NO
+CLM000455,Check,Vehicle Repair,Indemnity,9955.4,YES
+CLM000823,Direct Deposit,Medical,Expense,45872.04,YES
+CLM000016,Check,Vehicle Repair,Indemnity,28503.55,NO
+CLM000310,Direct Deposit,Property Damage,Expense,18020.49,NO
+CLM000861,Check,Medical,Indemnity,40630.53,YES
+CLM000644,Check,Medical,Indemnity,6674.63,NO
+CLM000400,Check,Vehicle Repair,Indemnity,36387.1,NO
+CLM000255,Credit Card,Property Damage,Indemnity,9770.15,NO
+CLM000790,Check,Vehicle Repair,Expense,44696.68,YES
+CLM000244,Credit Card,Vehicle Repair,Expense,47054.03,NO
+CLM000042,Credit Card,Property Damage,Expense,13810.57,NO
+CLM000007,Check,Property Damage,Indemnity,22000.22,NO
+CLM000150,Check,Vehicle Repair,Indemnity,24380.5,NO
+CLM000810,Credit Card,Vehicle Repair,Expense,12260.82,NO
+CLM000556,Check,Vehicle Repair,Indemnity,4266.99,NO
+CLM000736,Check,Property Damage,Indemnity,28466.48,YES
+CLM000091,Credit Card,Medical,Indemnity,48086.09,YES
+CLM000631,Check,Property Damage,Expense,26714.93,NO
+CLM000944,Check,Property Damage,Expense,14586.54,YES
+CLM000740,Check,Vehicle Repair,Indemnity,25547.3,YES
+CLM000495,Check,Medical,Indemnity,24736.43,NO
+CLM000112,Check,Medical,Expense,29676.42,NO
+CLM000363,Check,Property Damage,Indemnity,43638.4,NO
+CLM000300,Credit Card,Vehicle Repair,Expense,36860.09,NO
+CLM000195,Credit Card,Property Damage,Indemnity,22631.4,YES
+CLM000910,Credit Card,Property Damage,Indemnity,39196.25,NO
+CLM000670,Direct Deposit,Medical,Expense,38400.37,NO
+CLM000321,Check,Vehicle Repair,Expense,28492.22,YES
+CLM000277,Direct Deposit,Medical,Indemnity,21536.67,YES
+CLM000207,Credit Card,Medical,Expense,35333.85,YES
+CLM000165,Direct Deposit,Medical,Indemnity,15213.67,YES
+CLM000212,Direct Deposit,Medical,Expense,14545.25,YES
+CLM000630,Direct Deposit,Vehicle Repair,Indemnity,36872.61,YES
+CLM000958,Check,Medical,Indemnity,19039.91,NO
+CLM000558,Credit Card,Property Damage,Indemnity,32916.34,YES
+CLM000190,Credit Card,Vehicle Repair,Expense,39060.9,NO
+CLM000371,Credit Card,Vehicle Repair,Expense,19853.42,YES
+CLM000317,Check,Vehicle Repair,Indemnity,25886.77,YES
+CLM000674,Check,Property Damage,Expense,25337.11,YES
+CLM000179,Credit Card,Property Damage,Indemnity,27265.02,NO
+CLM000848,Check,Property Damage,Expense,31616.41,YES
+CLM000245,Check,Vehicle Repair,Expense,48103.62,YES
+CLM000206,Check,Vehicle Repair,Indemnity,32390.15,NO
+CLM000374,Credit Card,Medical,Expense,9564.46,NO
+CLM000069,Direct Deposit,Medical,Indemnity,48929.39,YES
+CLM000915,Direct Deposit,Vehicle Repair,Indemnity,19771.35,YES
+CLM000714,Check,Vehicle Repair,Indemnity,37762.93,NO
+CLM000248,Direct Deposit,Property Damage,Expense,14449.45,NO
+CLM000239,Direct Deposit,Property Damage,Indemnity,11707.88,NO
+CLM000656,Check,Property Damage,Expense,8978.29,YES
+CLM000236,Check,Property Damage,Expense,28462.17,YES
+CLM000867,Credit Card,Vehicle Repair,Expense,17121.76,YES
+CLM000818,Direct Deposit,Property Damage,Indemnity,38576.23,YES
+CLM000929,Credit Card,Property Damage,Indemnity,10319.11,NO
+CLM000552,Check,Property Damage,Indemnity,31680.0,YES
+CLM000178,Credit Card,Vehicle Repair,Indemnity,40557.94,NO
+CLM000781,Credit Card,Vehicle Repair,Expense,3011.97,NO
+CLM000579,Direct Deposit,Medical,Expense,22471.45,YES
+CLM000658,Check,Vehicle Repair,Indemnity,16900.19,NO
+CLM000768,Check,Medical,Indemnity,16777.02,NO
+CLM000181,Direct Deposit,Property Damage,Expense,39861.92,YES
+CLM000458,Direct Deposit,Vehicle Repair,Expense,19377.88,NO
+CLM000855,Direct Deposit,Medical,Indemnity,32436.55,NO
+CLM000787,Check,Property Damage,Indemnity,46072.55,NO
+CLM000611,Direct Deposit,Property Damage,Indemnity,28434.14,NO
+CLM000397,Check,Medical,Indemnity,15243.98,NO
+CLM000037,Check,Medical,Indemnity,28734.62,YES
+CLM000536,Check,Vehicle Repair,Indemnity,9546.65,NO
+CLM000973,Direct Deposit,Vehicle Repair,Indemnity,38129.28,NO
+CLM000507,Credit Card,Property Damage,Indemnity,42614.23,NO
+CLM000821,Direct Deposit,Vehicle Repair,Indemnity,4937.98,YES
+CLM000622,Check,Medical,Expense,36570.52,NO
+CLM000062,Credit Card,Property Damage,Expense,8355.31,NO
+CLM000549,Direct Deposit,Property Damage,Expense,25147.66,YES
+CLM000189,Check,Vehicle Repair,Indemnity,48327.95,NO
+CLM000412,Check,Property Damage,Indemnity,24265.81,YES
+CLM000250,Check,Property Damage,Indemnity,3758.23,NO
+CLM000187,Direct Deposit,Vehicle Repair,Expense,26322.4,NO
+CLM000986,Direct Deposit,Vehicle Repair,Indemnity,24735.84,YES
+CLM000586,Check,Vehicle Repair,Indemnity,27408.14,NO
+CLM000754,Credit Card,Property Damage,Indemnity,9871.32,YES
+CLM000615,Credit Card,Vehicle Repair,Expense,21235.83,NO
+CLM000096,Credit Card,Vehicle Repair,Indemnity,4062.12,NO
+CLM000915,Credit Card,Vehicle Repair,Expense,41579.97,YES
+CLM000790,Direct Deposit,Medical,Expense,34790.89,YES
+CLM000535,Direct Deposit,Property Damage,Indemnity,18946.79,NO
+CLM000488,Credit Card,Property Damage,Expense,13166.08,YES
+CLM000654,Credit Card,Medical,Expense,13033.44,NO
+CLM000644,Direct Deposit,Medical,Expense,49319.31,NO
+CLM000159,Direct Deposit,Property Damage,Indemnity,16560.19,NO
+CLM000591,Direct Deposit,Property Damage,Indemnity,34345.4,NO
+CLM000400,Check,Medical,Expense,7737.75,NO
+CLM000406,Direct Deposit,Vehicle Repair,Expense,20922.47,NO
+CLM000165,Direct Deposit,Medical,Indemnity,3729.0,NO
+CLM000633,Direct Deposit,Vehicle Repair,Expense,31476.86,NO
+CLM000968,Check,Vehicle Repair,Expense,38244.41,YES
+CLM000327,Credit Card,Vehicle Repair,Indemnity,20712.05,NO
+CLM000347,Check,Property Damage,Expense,9037.05,NO
+CLM000300,Direct Deposit,Vehicle Repair,Expense,8953.31,YES
+CLM000447,Credit Card,Medical,Indemnity,12721.43,NO
+CLM000464,Check,Property Damage,Expense,15366.72,YES
+CLM000977,Credit Card,Medical,Indemnity,34624.19,YES
+CLM000854,Check,Vehicle Repair,Indemnity,2782.39,YES
+CLM000190,Direct Deposit,Vehicle Repair,Expense,31983.05,NO
+CLM000383,Direct Deposit,Medical,Expense,46442.87,NO
+CLM000378,Check,Vehicle Repair,Indemnity,20472.19,YES
+CLM000658,Direct Deposit,Medical,Indemnity,3301.75,YES
+CLM000598,Check,Vehicle Repair,Expense,34794.06,YES
+CLM000063,Check,Vehicle Repair,Indemnity,9182.71,YES
+CLM000184,Credit Card,Medical,Indemnity,5812.98,NO
+CLM000680,Check,Property Damage,Indemnity,48313.69,NO
+CLM000442,Direct Deposit,Medical,Expense,8218.0,YES
+CLM000459,Credit Card,Vehicle Repair,Expense,5609.81,YES
+CLM000516,Check,Medical,Indemnity,43560.42,NO
+CLM000001,Direct Deposit,Medical,Indemnity,36184.36,YES
+CLM000712,Check,Medical,Indemnity,43997.27,NO
+CLM000511,Check,Property Damage,Expense,32076.37,YES
+CLM000887,Direct Deposit,Property Damage,Indemnity,19588.03,NO
+CLM000480,Direct Deposit,Vehicle Repair,Indemnity,7689.84,YES
+CLM000750,Credit Card,Medical,Indemnity,31849.41,YES
+CLM000421,Direct Deposit,Medical,Expense,584.47,YES
+CLM000858,Direct Deposit,Vehicle Repair,Indemnity,38578.21,YES
+CLM000617,Direct Deposit,Vehicle Repair,Expense,38754.43,NO
+CLM000015,Check,Property Damage,Indemnity,43414.98,NO
+CLM000573,Credit Card,Medical,Expense,1851.61,YES
+CLM000026,Credit Card,Medical,Expense,47253.02,YES
+CLM000455,Credit Card,Medical,Indemnity,35472.18,YES
+CLM000066,Direct Deposit,Property Damage,Expense,14660.82,YES
+CLM000863,Direct Deposit,Property Damage,Expense,3774.81,YES
+CLM000991,Direct Deposit,Vehicle Repair,Expense,41193.66,YES
+CLM000407,Check,Vehicle Repair,Expense,46266.57,YES
+CLM000535,Credit Card,Medical,Expense,48418.1,YES
+CLM000931,Check,Property Damage,Expense,27198.0,YES
+CLM000521,Direct Deposit,Medical,Expense,4418.79,YES
+CLM000217,Direct Deposit,Vehicle Repair,Indemnity,46753.66,NO
+CLM000032,Direct Deposit,Vehicle Repair,Expense,1520.15,NO
+CLM000706,Credit Card,Property Damage,Expense,20034.53,NO
+CLM000553,Credit Card,Vehicle Repair,Indemnity,201.69,NO
+CLM000201,Check,Property Damage,Expense,36196.07,YES
+CLM000744,Check,Vehicle Repair,Expense,18592.22,NO
+CLM000693,Credit Card,Property Damage,Indemnity,30449.92,NO
+CLM000821,Check,Property Damage,Expense,11458.28,NO
+CLM000822,Direct Deposit,Vehicle Repair,Expense,3335.92,YES
+CLM000411,Direct Deposit,Property Damage,Expense,3069.52,NO
+CLM000864,Check,Vehicle Repair,Expense,11372.27,NO
+CLM000965,Check,Medical,Expense,12175.35,YES
+CLM000397,Direct Deposit,Property Damage,Expense,16033.2,YES
+CLM000245,Check,Medical,Indemnity,8004.8,NO
+CLM000155,Credit Card,Property Damage,Indemnity,1593.33,NO
+CLM000865,Direct Deposit,Vehicle Repair,Indemnity,19822.99,NO
+CLM000508,Check,Vehicle Repair,Expense,5136.11,NO
+CLM000804,Credit Card,Property Damage,Indemnity,36122.6,NO
+CLM000526,Credit Card,Vehicle Repair,Expense,9473.9,NO
+CLM000387,Direct Deposit,Medical,Indemnity,4787.11,YES
+CLM000351,Credit Card,Medical,Expense,24192.22,NO
+CLM000617,Direct Deposit,Property Damage,Indemnity,39943.32,YES
+CLM000459,Direct Deposit,Medical,Indemnity,37777.39,NO
+CLM000300,Direct Deposit,Medical,Expense,23496.27,YES
+CLM000420,Check,Vehicle Repair,Indemnity,44125.81,NO
+CLM000021,Credit Card,Property Damage,Indemnity,26446.81,NO
+CLM000664,Check,Vehicle Repair,Indemnity,4255.15,YES
+CLM000502,Check,Medical,Expense,18713.65,YES
+CLM000043,Direct Deposit,Medical,Expense,6389.56,YES
+CLM000764,Direct Deposit,Medical,Indemnity,47833.74,YES
+CLM000432,Credit Card,Medical,Expense,2115.49,NO
+CLM000799,Check,Vehicle Repair,Expense,47379.28,NO
+CLM000122,Check,Property Damage,Expense,16072.81,YES
+CLM000752,Direct Deposit,Property Damage,Indemnity,39958.99,YES
+CLM000822,Credit Card,Vehicle Repair,Expense,12098.37,YES
+CLM000905,Check,Property Damage,Indemnity,49198.3,YES
+CLM000653,Check,Property Damage,Indemnity,47101.14,YES
+CLM000239,Direct Deposit,Vehicle Repair,Indemnity,20093.08,YES
+CLM000612,Direct Deposit,Medical,Expense,44798.37,NO
+CLM000359,Direct Deposit,Vehicle Repair,Indemnity,18807.08,NO
+CLM000745,Credit Card,Medical,Expense,11055.59,YES
+CLM000397,Direct Deposit,Medical,Expense,31729.15,YES
+CLM000360,Direct Deposit,Medical,Expense,14873.36,YES
+CLM000695,Check,Property Damage,Expense,6384.99,YES
+CLM000514,Credit Card,Medical,Expense,21331.59,NO
+CLM000070,Credit Card,Medical,Expense,33200.44,NO
+CLM000775,Check,Property Damage,Indemnity,3464.37,YES
+CLM000782,Credit Card,Property Damage,Indemnity,10796.51,NO
+CLM000304,Direct Deposit,Vehicle Repair,Indemnity,14548.04,NO
+CLM000789,Credit Card,Vehicle Repair,Expense,32002.03,YES
+CLM000200,Direct Deposit,Vehicle Repair,Expense,45879.3,YES
+CLM000134,Credit Card,Vehicle Repair,Expense,28822.33,NO
+CLM000879,Direct Deposit,Medical,Expense,20272.68,NO
+CLM000599,Credit Card,Vehicle Repair,Expense,2505.8,NO
+CLM000266,Credit Card,Property Damage,Indemnity,22800.62,NO
+CLM000846,Direct Deposit,Medical,Indemnity,36760.94,NO
+CLM000158,Check,Medical,Indemnity,18140.58,NO
+CLM000769,Direct Deposit,Medical,Expense,15980.41,NO
+CLM000705,Check,Medical,Expense,30683.29,NO
+CLM000116,Credit Card,Vehicle Repair,Indemnity,48858.04,NO
+CLM000097,Credit Card,Medical,Expense,16334.45,YES
+CLM000222,Check,Vehicle Repair,Indemnity,27855.57,NO
+CLM000302,Credit Card,Vehicle Repair,Expense,36690.93,NO
+CLM000695,Direct Deposit,Vehicle Repair,Expense,31666.95,YES
+CLM000866,Credit Card,Property Damage,Indemnity,8220.17,NO
+CLM000272,Credit Card,Property Damage,Indemnity,28966.91,NO
+CLM000680,Direct Deposit,Property Damage,Expense,45994.26,YES
+CLM000548,Check,Medical,Indemnity,29000.16,YES
+CLM000358,Check,Vehicle Repair,Expense,20686.43,YES
+CLM000928,Credit Card,Medical,Expense,7164.17,NO
+CLM000829,Direct Deposit,Vehicle Repair,Indemnity,3897.45,NO
+CLM000574,Check,Medical,Expense,35813.07,YES
+CLM000419,Check,Medical,Expense,16922.32,YES
+CLM000586,Credit Card,Medical,Indemnity,22800.06,NO
+CLM000454,Direct Deposit,Vehicle Repair,Indemnity,2414.11,NO
+CLM000509,Credit Card,Vehicle Repair,Expense,46844.61,YES
+CLM000469,Direct Deposit,Property Damage,Expense,10315.22,YES
+CLM000687,Check,Property Damage,Indemnity,41971.41,YES
+CLM000863,Check,Medical,Expense,49201.59,NO
+CLM000578,Credit Card,Medical,Expense,27892.49,YES
+CLM000415,Credit Card,Vehicle Repair,Expense,45401.72,NO
+CLM000978,Direct Deposit,Vehicle Repair,Indemnity,39049.51,NO
+CLM000051,Check,Vehicle Repair,Expense,9171.48,NO
+CLM000799,Check,Medical,Indemnity,18258.92,NO
+CLM000289,Check,Property Damage,Indemnity,31498.73,NO
+CLM000768,Check,Property Damage,Expense,45261.55,NO
+CLM000082,Credit Card,Medical,Expense,26319.52,YES
+CLM000787,Check,Medical,Expense,41022.32,NO
+CLM000661,Check,Vehicle Repair,Expense,12474.54,YES
+CLM000881,Credit Card,Vehicle Repair,Indemnity,3180.15,YES
+CLM000169,Direct Deposit,Medical,Indemnity,397.6,YES
+CLM000091,Direct Deposit,Medical,Indemnity,30976.11,NO
+CLM000037,Check,Medical,Indemnity,10269.16,YES
+CLM000491,Credit Card,Medical,Indemnity,19235.05,NO
+CLM000960,Check,Vehicle Repair,Expense,46664.75,YES
+CLM000425,Check,Vehicle Repair,Indemnity,35914.79,NO
+CLM000165,Check,Vehicle Repair,Expense,10147.63,NO
+CLM000756,Credit Card,Medical,Indemnity,21200.98,NO
+CLM000245,Check,Property Damage,Indemnity,17494.4,YES
+CLM000674,Credit Card,Vehicle Repair,Indemnity,5836.29,YES
+CLM000348,Credit Card,Vehicle Repair,Indemnity,49856.35,NO
+CLM000194,Direct Deposit,Vehicle Repair,Expense,46958.04,NO
+CLM000921,Credit Card,Vehicle Repair,Indemnity,14796.52,NO
+CLM000487,Direct Deposit,Property Damage,Expense,42460.41,NO
+CLM000064,Direct Deposit,Vehicle Repair,Expense,16179.25,YES
+CLM000755,Direct Deposit,Medical,Expense,33410.84,YES
+CLM000767,Credit Card,Property Damage,Expense,37208.35,YES
+CLM000070,Direct Deposit,Medical,Indemnity,1010.3,YES
+CLM000629,Direct Deposit,Vehicle Repair,Expense,15975.37,YES
+CLM000012,Check,Medical,Expense,38569.57,YES
+CLM000197,Direct Deposit,Property Damage,Indemnity,16394.45,NO
+CLM000738,Check,Property Damage,Expense,4310.22,NO
+CLM000264,Check,Vehicle Repair,Indemnity,16174.04,NO
+CLM000411,Direct Deposit,Property Damage,Indemnity,35082.17,NO
+CLM000186,Credit Card,Property Damage,Indemnity,38746.14,NO
+CLM000960,Credit Card,Medical,Indemnity,43537.2,YES
+CLM000427,Credit Card,Property Damage,Indemnity,13000.51,YES
+CLM000326,Direct Deposit,Medical,Indemnity,41437.58,NO
+CLM000185,Check,Medical,Expense,1999.33,NO
+CLM000855,Direct Deposit,Vehicle Repair,Expense,2328.8,YES
+CLM000488,Check,Property Damage,Expense,45887.96,NO
+CLM000316,Direct Deposit,Medical,Indemnity,26769.27,NO
+CLM000789,Credit Card,Property Damage,Expense,45884.1,NO
+CLM000991,Credit Card,Vehicle Repair,Expense,44339.35,NO
+CLM000544,Check,Property Damage,Indemnity,35254.0,YES
+CLM000094,Direct Deposit,Vehicle Repair,Expense,27458.43,NO
+CLM000027,Check,Property Damage,Expense,33304.32,NO
+CLM000731,Check,Medical,Expense,38785.58,NO
+CLM000400,Credit Card,Vehicle Repair,Indemnity,1944.85,YES
+CLM000794,Direct Deposit,Property Damage,Expense,5761.21,NO
+CLM000558,Check,Vehicle Repair,Indemnity,39224.72,YES
+CLM000353,Direct Deposit,Vehicle Repair,Indemnity,48538.15,YES
+CLM000672,Direct Deposit,Property Damage,Expense,29718.78,NO
+CLM000492,Direct Deposit,Medical,Expense,18721.03,YES
+CLM000099,Direct Deposit,Property Damage,Expense,16279.23,YES
+CLM000574,Direct Deposit,Property Damage,Indemnity,4116.37,YES
+CLM000456,Direct Deposit,Medical,Indemnity,35178.56,YES
+CLM000404,Credit Card,Vehicle Repair,Indemnity,8398.6,NO
+CLM000762,Credit Card,Property Damage,Indemnity,28842.43,NO
+CLM000771,Direct Deposit,Property Damage,Indemnity,29942.26,NO
+CLM000909,Direct Deposit,Vehicle Repair,Expense,8903.47,YES
+CLM000140,Direct Deposit,Vehicle Repair,Expense,36004.41,YES
+CLM000060,Credit Card,Medical,Indemnity,27431.94,NO
+CLM000476,Direct Deposit,Property Damage,Indemnity,8733.37,NO
+CLM000499,Check,Property Damage,Indemnity,14893.56,YES
+CLM000374,Direct Deposit,Medical,Indemnity,1169.43,YES
+CLM000119,Credit Card,Property Damage,Expense,26397.54,YES
+CLM000624,Direct Deposit,Property Damage,Indemnity,213.33,NO
+CLM000615,Direct Deposit,Property Damage,Indemnity,12102.26,YES
+CLM000830,Credit Card,Property Damage,Expense,37703.93,NO
+CLM000566,Check,Vehicle Repair,Indemnity,21244.53,NO
+CLM000925,Check,Property Damage,Indemnity,10481.68,NO
+CLM000865,Credit Card,Vehicle Repair,Expense,33484.75,NO
+CLM000658,Check,Vehicle Repair,Expense,48632.39,NO
+CLM000310,Check,Property Damage,Expense,35621.68,YES
+CLM000511,Check,Vehicle Repair,Expense,2074.84,YES
+CLM000961,Direct Deposit,Medical,Expense,18616.65,NO
+CLM000303,Credit Card,Vehicle Repair,Expense,22354.51,NO
+CLM000671,Check,Medical,Expense,39607.72,YES
+CLM000310,Check,Property Damage,Indemnity,27586.11,YES
+CLM000765,Check,Vehicle Repair,Indemnity,39731.32,NO
+CLM000117,Check,Property Damage,Expense,5857.05,YES
+CLM000251,Credit Card,Medical,Expense,30502.29,YES
+CLM000761,Check,Medical,Indemnity,32099.48,YES
+CLM000639,Direct Deposit,Medical,Indemnity,15347.29,YES
+CLM000008,Direct Deposit,Vehicle Repair,Expense,6001.09,YES
+CLM000220,Credit Card,Medical,Indemnity,20001.97,NO
+CLM000856,Credit Card,Vehicle Repair,Expense,34259.99,YES
+CLM000245,Credit Card,Medical,Expense,3751.21,YES
+CLM000495,Direct Deposit,Vehicle Repair,Expense,2973.58,NO
+CLM000040,Direct Deposit,Vehicle Repair,Expense,29482.09,NO
+CLM000218,Direct Deposit,Property Damage,Expense,40084.64,YES
+CLM000587,Direct Deposit,Medical,Expense,46560.08,NO
+CLM000063,Credit Card,Vehicle Repair,Expense,25726.75,YES
+CLM000655,Credit Card,Vehicle Repair,Expense,11974.88,NO
+CLM000120,Check,Medical,Expense,20253.21,NO
+CLM000544,Direct Deposit,Vehicle Repair,Indemnity,19946.2,NO
+CLM000647,Direct Deposit,Property Damage,Expense,30276.66,YES
+CLM000783,Credit Card,Medical,Expense,49306.14,YES
+CLM000441,Credit Card,Vehicle Repair,Expense,26412.19,YES
+CLM000893,Direct Deposit,Property Damage,Expense,39251.31,NO
+CLM000178,Check,Property Damage,Expense,35026.13,YES
+CLM000897,Check,Property Damage,Expense,12549.48,YES
+CLM000742,Direct Deposit,Medical,Indemnity,16811.45,YES
+CLM000310,Direct Deposit,Property Damage,Indemnity,28198.35,NO
+CLM000079,Check,Property Damage,Expense,26424.81,NO
+CLM000515,Check,Property Damage,Expense,7083.58,YES
+CLM000653,Credit Card,Vehicle Repair,Expense,43947.48,NO
+CLM000321,Credit Card,Medical,Expense,20973.96,NO
+CLM000471,Direct Deposit,Property Damage,Indemnity,5793.71,YES
+CLM000091,Credit Card,Medical,Expense,791.82,NO
+CLM000825,Credit Card,Property Damage,Indemnity,39682.89,YES
+CLM000947,Check,Property Damage,Expense,16074.77,YES
+CLM000193,Credit Card,Vehicle Repair,Expense,33726.7,NO
+CLM000694,Credit Card,Medical,Expense,9492.47,YES
+CLM000592,Direct Deposit,Vehicle Repair,Expense,41316.73,YES
+CLM000647,Direct Deposit,Medical,Indemnity,37760.78,YES
+CLM000640,Direct Deposit,Property Damage,Expense,18254.33,YES
+CLM000114,Check,Vehicle Repair,Expense,7227.12,NO
+CLM000107,Check,Property Damage,Indemnity,25314.28,NO

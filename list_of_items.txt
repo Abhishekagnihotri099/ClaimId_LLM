@@ -1,0 +1,70 @@
+Engine
+Tire
+Battery
+Windshield
+Air Conditioning Unit
+Brake Pads
+Radiator
+Alternator
+Headlights
+Wiper Blades
+Transmission
+Clutch
+Suspension System
+Exhaust System
+Spark Plugs
+Belts and Hoses
+Fuel Pump
+Timing Belt
+Oil Filter
+Timing Chain
+Carburetor
+Fuel Injector
+Power Steering Pump
+Shock Absorbers
+Coil Springs
+Differential
+Air Filter
+Door Handles
+Lock Mechanisms
+Windows
+Mirrors
+Seats
+Upholstery
+Dashboard
+Interior Lights
+Radio/Stereo System
+GPS System
+Sunroof
+Leather Trimming
+Windshield Wipers
+Rearview Mirrors
+Steering Wheel
+Lock Cylinder
+Brake Rotors
+Fog Lights
+Side View Mirrors
+Muffler
+Timing Chain
+Clutch Master Cylinder
+Shock Absorbers
+Fuel Filter
+Heater Core
+Cabin Air Filter
+Transmission Fluid
+Brake Lines
+Exhaust Manifold
+Wheel Bearings
+Suspension Bushings
+Fuel Tank
+Differential Gasket
+Fuel Lines
+Battery Terminals
+Power Windows
+Antenna
+Head Gasket
+Oil Pump
+Brake Fluid Reservoir
+Windshield Washer Fluid Tank
+Gas Pedal Assembly
+CV Joint
