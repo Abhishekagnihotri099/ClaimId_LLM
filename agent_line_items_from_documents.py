@@ -25,7 +25,7 @@ def read_items_from_file(file_path):
 def check_line_items_from_documents(claim_number):
     claim_number = "CLM000382"
     text_file_path = "list_of_items.txt"
-    load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")    
+    # load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")    
     api_key = st.secrets["GROQ_API_KEY"]
 
     if not api_key:
