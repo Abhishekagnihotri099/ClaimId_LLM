@@ -42,8 +42,8 @@ def chatbot_response(data):
     ## set up Streamlit 
     st.header("Conversational Q&A ChatBot")
     load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")    
-    api_key = os.getenv("GROQ_API_KEY")
-    os.environ['HF_TOKEN']=os.getenv("HF_TOKEN")
+    api_key = st.secrets["GROQ_API_KEY"]
+    os.environ['HF_TOKEN']=st.secrets["HF_TOKEN"]
 
     if not api_key:
         raise ValueError("GROQ_API_KEY not found in environment variables")
