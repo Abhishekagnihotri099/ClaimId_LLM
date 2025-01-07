@@ -15,8 +15,8 @@ def get_comments_summary(data):
     combined_str = f"For this claim number my flow got these comments-{comments_str} and hence the final output is {final_output}"
 
     # Load model
-    load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")
-    api_key=os.getenv("GROQ_API_KEY")
+    # load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")
+    api_key=st.secrets["GROQ_API_KEY"]
     if not api_key:
         raise ValueError("GROQ_API_KEY environment variable not set")
     llm=ChatGroq(groq_api_key=api_key,model="gemma2-9b-it")
