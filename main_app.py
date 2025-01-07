@@ -17,7 +17,7 @@ import json
 import re
 from agent_line_items_from_documents import check_line_items_from_documents
 from agent_notes_similarity_search import check_notes_incident_description
-from agent_generate_flowchart_llm import generate_flowchart 
+# from agent_generate_flowchart_llm import generate_flowchart 
 from agent_chatbot import chatbot_response
 
 st.title("Loss Not Covered Per Policy")
