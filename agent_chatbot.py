@@ -25,7 +25,7 @@ from langchain.chains import RetrievalQA
 import os
 
 from dotenv import load_dotenv
-load_dotenv()
+# load_dotenv()
 
 
 # embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -41,7 +41,7 @@ def chatbot_response(data):
     combined_str = f"This is complete context of my flow-{comments_str} and hence the final output is {final_output}"
     ## set up Streamlit 
     st.header("Conversational Q&A ChatBot")
-    load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")    
+    # load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")    
     api_key = st.secrets["GROQ_API_KEY"]
     os.environ['HF_TOKEN']=st.secrets["HF_TOKEN"]
 
