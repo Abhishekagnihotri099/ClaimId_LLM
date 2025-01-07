@@ -269,7 +269,7 @@ def main():
                                     # Check 8 - Check if repaired/ replaced items listed in invoice is as per pds?
                                     items_as_per_pds, items_not_as_per_pds = check_line_items_from_documents(claim_number)
                                     if len(items_not_as_per_pds) == 0:
-                                        comment = f"**Check 8 - {items_as_per_pds} is as per PDS**"
+                                        comment = f"**Check 8 - Invoice document items - {items_as_per_pds} is as per PDS**"
                                         # st.success(comment)
                                         output['comments'] += comment + " "
 
