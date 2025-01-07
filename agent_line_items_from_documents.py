@@ -26,12 +26,12 @@ def check_line_items_from_documents(claim_number):
     claim_number = "CLM000382"
     text_file_path = "list_of_items.txt"
     load_dotenv(dotenv_path="C:/Users/abhishek221057/OneDrive - EXLService.com (I) Pvt. Ltd/Desktop/Agentic_bot/.env")    
-    api_key = os.getenv("GROQ_API_KEY")
+    api_key = st.secrets["GROQ_API_KEY"]
 
     if not api_key:
         raise ValueError("GROQ_API_KEY not found in environment variables")
     
-    os.environ['HF_TOKEN']=os.getenv("HF_TOKEN")
+    os.environ['HF_TOKEN']=st.secrets["HF_TOKEN"]
 
     embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
